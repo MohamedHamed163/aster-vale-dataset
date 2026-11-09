@@ -1,0 +1,200 @@
+{"as_of": null, "category": "single_hop", "id": "EVAL-0001", "question": "Who owns Lumen Initiative 001?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0002", "question": "Which supplier supplies the product delivered by Lumen Initiative 001?", "synthetic": true}
+{"as_of": "2026-06-29T09:00:00Z", "category": "temporal", "id": "EVAL-0003", "question": "As of 2026-06-29, what was the planned launch date for Lumen Initiative 001?", "synthetic": true}
+{"as_of": "2026-07-07T09:00:00Z", "category": "temporal", "id": "EVAL-0004", "question": "As of 2026-07-07, what was the planned launch date for Lumen Initiative 001 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0005", "question": "What was the actual production launch completion timestamp for Lumen Document Discovery 001?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0006", "question": "Who owns Lumen Initiative 002?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0007", "question": "Which supplier supplies the product delivered by Lumen Initiative 002?", "synthetic": true}
+{"as_of": "2026-06-30T09:00:00Z", "category": "temporal", "id": "EVAL-0008", "question": "As of 2026-06-30, what was the planned launch date for Lumen Initiative 002?", "synthetic": true}
+{"as_of": "2026-07-08T09:00:00Z", "category": "temporal", "id": "EVAL-0009", "question": "As of 2026-07-08, what was the planned launch date for Lumen Initiative 002 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0010", "question": "What was the actual production launch completion timestamp for Lumen Warehouse Planning 002?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0011", "question": "Who owns Lumen Initiative 003?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0012", "question": "Which supplier supplies the product delivered by Lumen Initiative 003?", "synthetic": true}
+{"as_of": "2026-07-01T09:00:00Z", "category": "temporal", "id": "EVAL-0013", "question": "As of 2026-07-01, what was the planned launch date for Lumen Initiative 003?", "synthetic": true}
+{"as_of": "2026-07-09T09:00:00Z", "category": "temporal", "id": "EVAL-0014", "question": "As of 2026-07-09, what was the planned launch date for Lumen Initiative 003 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0015", "question": "What was the actual production launch completion timestamp for Lumen Learning Operations 003?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0016", "question": "Who owns Lumen Initiative 004?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0017", "question": "Which supplier supplies the product delivered by Lumen Initiative 004?", "synthetic": true}
+{"as_of": "2026-07-02T09:00:00Z", "category": "temporal", "id": "EVAL-0018", "question": "As of 2026-07-02, what was the planned launch date for Lumen Initiative 004?", "synthetic": true}
+{"as_of": "2026-07-10T09:00:00Z", "category": "temporal", "id": "EVAL-0019", "question": "As of 2026-07-10, what was the planned launch date for Lumen Initiative 004 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0020", "question": "What was the actual production launch completion timestamp for Lumen Field Maintenance 004?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0021", "question": "Who owns Lumen Initiative 005?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0022", "question": "Which supplier supplies the product delivered by Lumen Initiative 005?", "synthetic": true}
+{"as_of": "2026-07-03T09:00:00Z", "category": "temporal", "id": "EVAL-0023", "question": "As of 2026-07-03, what was the planned launch date for Lumen Initiative 005?", "synthetic": true}
+{"as_of": "2026-07-11T09:00:00Z", "category": "temporal", "id": "EVAL-0024", "question": "As of 2026-07-11, what was the planned launch date for Lumen Initiative 005 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0025", "question": "What was the actual production launch completion timestamp for Lumen Supplier Onboarding 005?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0026", "question": "Who owns Lumen Initiative 006?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0027", "question": "Which supplier supplies the product delivered by Lumen Initiative 006?", "synthetic": true}
+{"as_of": "2026-07-04T09:00:00Z", "category": "temporal", "id": "EVAL-0028", "question": "As of 2026-07-04, what was the planned launch date for Lumen Initiative 006?", "synthetic": true}
+{"as_of": "2026-07-12T09:00:00Z", "category": "temporal", "id": "EVAL-0029", "question": "As of 2026-07-12, what was the planned launch date for Lumen Initiative 006 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0030", "question": "What was the actual production launch completion timestamp for Lumen Design Collaboration 006?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0031", "question": "Who owns Lumen Initiative 007?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0032", "question": "Which supplier supplies the product delivered by Lumen Initiative 007?", "synthetic": true}
+{"as_of": "2026-07-05T09:00:00Z", "category": "temporal", "id": "EVAL-0033", "question": "As of 2026-07-05, what was the planned launch date for Lumen Initiative 007?", "synthetic": true}
+{"as_of": "2026-07-13T09:00:00Z", "category": "temporal", "id": "EVAL-0034", "question": "As of 2026-07-13, what was the planned launch date for Lumen Initiative 007 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0035", "question": "What was the actual production launch completion timestamp for Lumen Event Operations 007?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0036", "question": "Who owns Lumen Initiative 008?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0037", "question": "Which supplier supplies the product delivered by Lumen Initiative 008?", "synthetic": true}
+{"as_of": "2026-07-06T09:00:00Z", "category": "temporal", "id": "EVAL-0038", "question": "As of 2026-07-06, what was the planned launch date for Lumen Initiative 008?", "synthetic": true}
+{"as_of": "2026-07-14T09:00:00Z", "category": "temporal", "id": "EVAL-0039", "question": "As of 2026-07-14, what was the planned launch date for Lumen Initiative 008 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0040", "question": "What was the actual production launch completion timestamp for Lumen Energy Reporting 008?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0041", "question": "Who owns Lumen Initiative 009?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0042", "question": "Which supplier supplies the product delivered by Lumen Initiative 009?", "synthetic": true}
+{"as_of": "2026-07-07T09:00:00Z", "category": "temporal", "id": "EVAL-0043", "question": "As of 2026-07-07, what was the planned launch date for Lumen Initiative 009?", "synthetic": true}
+{"as_of": "2026-07-15T09:00:00Z", "category": "temporal", "id": "EVAL-0044", "question": "As of 2026-07-15, what was the planned launch date for Lumen Initiative 009 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0045", "question": "What was the actual production launch completion timestamp for Lumen Subscription Support 009?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0046", "question": "Who owns Lumen Initiative 010?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0047", "question": "Which supplier supplies the product delivered by Lumen Initiative 010?", "synthetic": true}
+{"as_of": "2026-07-08T09:00:00Z", "category": "temporal", "id": "EVAL-0048", "question": "As of 2026-07-08, what was the planned launch date for Lumen Initiative 010?", "synthetic": true}
+{"as_of": "2026-07-16T09:00:00Z", "category": "temporal", "id": "EVAL-0049", "question": "As of 2026-07-16, what was the planned launch date for Lumen Initiative 010 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0050", "question": "What was the actual production launch completion timestamp for Lumen Delivery Coordination 010?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0051", "question": "Who owns Lumen Initiative 011?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0052", "question": "Which supplier supplies the product delivered by Lumen Initiative 011?", "synthetic": true}
+{"as_of": "2026-07-09T09:00:00Z", "category": "temporal", "id": "EVAL-0053", "question": "As of 2026-07-09, what was the planned launch date for Lumen Initiative 011?", "synthetic": true}
+{"as_of": "2026-07-17T09:00:00Z", "category": "temporal", "id": "EVAL-0054", "question": "As of 2026-07-17, what was the planned launch date for Lumen Initiative 011 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0055", "question": "What was the actual production launch completion timestamp for Lumen Document Discovery 011?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0056", "question": "Who owns Lumen Initiative 012?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0057", "question": "Which supplier supplies the product delivered by Lumen Initiative 012?", "synthetic": true}
+{"as_of": "2026-07-10T09:00:00Z", "category": "temporal", "id": "EVAL-0058", "question": "As of 2026-07-10, what was the planned launch date for Lumen Initiative 012?", "synthetic": true}
+{"as_of": "2026-07-18T09:00:00Z", "category": "temporal", "id": "EVAL-0059", "question": "As of 2026-07-18, what was the planned launch date for Lumen Initiative 012 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0060", "question": "What was the actual production launch completion timestamp for Lumen Warehouse Planning 012?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0061", "question": "Who owns Lumen Initiative 013?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0062", "question": "Which supplier supplies the product delivered by Lumen Initiative 013?", "synthetic": true}
+{"as_of": "2026-07-11T09:00:00Z", "category": "temporal", "id": "EVAL-0063", "question": "As of 2026-07-11, what was the planned launch date for Lumen Initiative 013?", "synthetic": true}
+{"as_of": "2026-07-19T09:00:00Z", "category": "temporal", "id": "EVAL-0064", "question": "As of 2026-07-19, what was the planned launch date for Lumen Initiative 013 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0065", "question": "What was the actual production launch completion timestamp for Lumen Learning Operations 013?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0066", "question": "Who owns Lumen Initiative 014?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0067", "question": "Which supplier supplies the product delivered by Lumen Initiative 014?", "synthetic": true}
+{"as_of": "2026-07-12T09:00:00Z", "category": "temporal", "id": "EVAL-0068", "question": "As of 2026-07-12, what was the planned launch date for Lumen Initiative 014?", "synthetic": true}
+{"as_of": "2026-07-20T09:00:00Z", "category": "temporal", "id": "EVAL-0069", "question": "As of 2026-07-20, what was the planned launch date for Lumen Initiative 014 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0070", "question": "What was the actual production launch completion timestamp for Lumen Field Maintenance 014?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0071", "question": "Who owns Lumen Initiative 015?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0072", "question": "Which supplier supplies the product delivered by Lumen Initiative 015?", "synthetic": true}
+{"as_of": "2026-07-13T09:00:00Z", "category": "temporal", "id": "EVAL-0073", "question": "As of 2026-07-13, what was the planned launch date for Lumen Initiative 015?", "synthetic": true}
+{"as_of": "2026-07-21T09:00:00Z", "category": "temporal", "id": "EVAL-0074", "question": "As of 2026-07-21, what was the planned launch date for Lumen Initiative 015 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0075", "question": "What was the actual production launch completion timestamp for Lumen Supplier Onboarding 015?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0076", "question": "Who owns Lumen Initiative 016?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0077", "question": "Which supplier supplies the product delivered by Lumen Initiative 016?", "synthetic": true}
+{"as_of": "2026-07-14T09:00:00Z", "category": "temporal", "id": "EVAL-0078", "question": "As of 2026-07-14, what was the planned launch date for Lumen Initiative 016?", "synthetic": true}
+{"as_of": "2026-07-22T09:00:00Z", "category": "temporal", "id": "EVAL-0079", "question": "As of 2026-07-22, what was the planned launch date for Lumen Initiative 016 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0080", "question": "What was the actual production launch completion timestamp for Lumen Design Collaboration 016?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0081", "question": "Who owns Lumen Initiative 017?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0082", "question": "Which supplier supplies the product delivered by Lumen Initiative 017?", "synthetic": true}
+{"as_of": "2026-07-15T09:00:00Z", "category": "temporal", "id": "EVAL-0083", "question": "As of 2026-07-15, what was the planned launch date for Lumen Initiative 017?", "synthetic": true}
+{"as_of": "2026-07-23T09:00:00Z", "category": "temporal", "id": "EVAL-0084", "question": "As of 2026-07-23, what was the planned launch date for Lumen Initiative 017 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0085", "question": "What was the actual production launch completion timestamp for Lumen Event Operations 017?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0086", "question": "Who owns Lumen Initiative 018?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0087", "question": "Which supplier supplies the product delivered by Lumen Initiative 018?", "synthetic": true}
+{"as_of": "2026-07-16T09:00:00Z", "category": "temporal", "id": "EVAL-0088", "question": "As of 2026-07-16, what was the planned launch date for Lumen Initiative 018?", "synthetic": true}
+{"as_of": "2026-07-24T09:00:00Z", "category": "temporal", "id": "EVAL-0089", "question": "As of 2026-07-24, what was the planned launch date for Lumen Initiative 018 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0090", "question": "What was the actual production launch completion timestamp for Lumen Energy Reporting 018?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0091", "question": "Who owns Lumen Initiative 019?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0092", "question": "Which supplier supplies the product delivered by Lumen Initiative 019?", "synthetic": true}
+{"as_of": "2026-07-17T09:00:00Z", "category": "temporal", "id": "EVAL-0093", "question": "As of 2026-07-17, what was the planned launch date for Lumen Initiative 019?", "synthetic": true}
+{"as_of": "2026-07-25T09:00:00Z", "category": "temporal", "id": "EVAL-0094", "question": "As of 2026-07-25, what was the planned launch date for Lumen Initiative 019 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0095", "question": "What was the actual production launch completion timestamp for Lumen Subscription Support 019?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0096", "question": "Who owns Lumen Initiative 020?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0097", "question": "Which supplier supplies the product delivered by Lumen Initiative 020?", "synthetic": true}
+{"as_of": "2026-07-18T09:00:00Z", "category": "temporal", "id": "EVAL-0098", "question": "As of 2026-07-18, what was the planned launch date for Lumen Initiative 020?", "synthetic": true}
+{"as_of": "2026-07-26T09:00:00Z", "category": "temporal", "id": "EVAL-0099", "question": "As of 2026-07-26, what was the planned launch date for Lumen Initiative 020 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0100", "question": "What was the actual production launch completion timestamp for Lumen Delivery Coordination 020?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0101", "question": "Who owns Lumen Initiative 021?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0102", "question": "Which supplier supplies the product delivered by Lumen Initiative 021?", "synthetic": true}
+{"as_of": "2026-07-19T09:00:00Z", "category": "temporal", "id": "EVAL-0103", "question": "As of 2026-07-19, what was the planned launch date for Lumen Initiative 021?", "synthetic": true}
+{"as_of": "2026-07-27T09:00:00Z", "category": "temporal", "id": "EVAL-0104", "question": "As of 2026-07-27, what was the planned launch date for Lumen Initiative 021 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0105", "question": "What was the actual production launch completion timestamp for Lumen Document Discovery 021?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0106", "question": "Who owns Lumen Initiative 022?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0107", "question": "Which supplier supplies the product delivered by Lumen Initiative 022?", "synthetic": true}
+{"as_of": "2026-07-20T09:00:00Z", "category": "temporal", "id": "EVAL-0108", "question": "As of 2026-07-20, what was the planned launch date for Lumen Initiative 022?", "synthetic": true}
+{"as_of": "2026-07-28T09:00:00Z", "category": "temporal", "id": "EVAL-0109", "question": "As of 2026-07-28, what was the planned launch date for Lumen Initiative 022 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0110", "question": "What was the actual production launch completion timestamp for Lumen Warehouse Planning 022?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0111", "question": "Who owns Lumen Initiative 023?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0112", "question": "Which supplier supplies the product delivered by Lumen Initiative 023?", "synthetic": true}
+{"as_of": "2026-07-21T09:00:00Z", "category": "temporal", "id": "EVAL-0113", "question": "As of 2026-07-21, what was the planned launch date for Lumen Initiative 023?", "synthetic": true}
+{"as_of": "2026-07-29T09:00:00Z", "category": "temporal", "id": "EVAL-0114", "question": "As of 2026-07-29, what was the planned launch date for Lumen Initiative 023 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0115", "question": "What was the actual production launch completion timestamp for Lumen Learning Operations 023?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0116", "question": "Who owns Lumen Initiative 024?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0117", "question": "Which supplier supplies the product delivered by Lumen Initiative 024?", "synthetic": true}
+{"as_of": "2026-07-22T09:00:00Z", "category": "temporal", "id": "EVAL-0118", "question": "As of 2026-07-22, what was the planned launch date for Lumen Initiative 024?", "synthetic": true}
+{"as_of": "2026-07-30T09:00:00Z", "category": "temporal", "id": "EVAL-0119", "question": "As of 2026-07-30, what was the planned launch date for Lumen Initiative 024 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0120", "question": "What was the actual production launch completion timestamp for Lumen Field Maintenance 024?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0121", "question": "Who owns Lumen Initiative 025?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0122", "question": "Which supplier supplies the product delivered by Lumen Initiative 025?", "synthetic": true}
+{"as_of": "2026-07-23T09:00:00Z", "category": "temporal", "id": "EVAL-0123", "question": "As of 2026-07-23, what was the planned launch date for Lumen Initiative 025?", "synthetic": true}
+{"as_of": "2026-07-31T09:00:00Z", "category": "temporal", "id": "EVAL-0124", "question": "As of 2026-07-31, what was the planned launch date for Lumen Initiative 025 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0125", "question": "What was the actual production launch completion timestamp for Lumen Supplier Onboarding 025?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0126", "question": "Who owns Lumen Initiative 026?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0127", "question": "Which supplier supplies the product delivered by Lumen Initiative 026?", "synthetic": true}
+{"as_of": "2026-07-24T09:00:00Z", "category": "temporal", "id": "EVAL-0128", "question": "As of 2026-07-24, what was the planned launch date for Lumen Initiative 026?", "synthetic": true}
+{"as_of": "2026-08-01T09:00:00Z", "category": "temporal", "id": "EVAL-0129", "question": "As of 2026-08-01, what was the planned launch date for Lumen Initiative 026 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0130", "question": "What was the actual production launch completion timestamp for Lumen Design Collaboration 026?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0131", "question": "Who owns Lumen Initiative 027?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0132", "question": "Which supplier supplies the product delivered by Lumen Initiative 027?", "synthetic": true}
+{"as_of": "2026-07-25T09:00:00Z", "category": "temporal", "id": "EVAL-0133", "question": "As of 2026-07-25, what was the planned launch date for Lumen Initiative 027?", "synthetic": true}
+{"as_of": "2026-08-02T09:00:00Z", "category": "temporal", "id": "EVAL-0134", "question": "As of 2026-08-02, what was the planned launch date for Lumen Initiative 027 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0135", "question": "What was the actual production launch completion timestamp for Lumen Event Operations 027?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0136", "question": "Who owns Lumen Initiative 028?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0137", "question": "Which supplier supplies the product delivered by Lumen Initiative 028?", "synthetic": true}
+{"as_of": "2026-07-26T09:00:00Z", "category": "temporal", "id": "EVAL-0138", "question": "As of 2026-07-26, what was the planned launch date for Lumen Initiative 028?", "synthetic": true}
+{"as_of": "2026-08-03T09:00:00Z", "category": "temporal", "id": "EVAL-0139", "question": "As of 2026-08-03, what was the planned launch date for Lumen Initiative 028 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0140", "question": "What was the actual production launch completion timestamp for Lumen Energy Reporting 028?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0141", "question": "Who owns Lumen Initiative 029?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0142", "question": "Which supplier supplies the product delivered by Lumen Initiative 029?", "synthetic": true}
+{"as_of": "2026-06-29T09:00:00Z", "category": "temporal", "id": "EVAL-0143", "question": "As of 2026-06-29, what was the planned launch date for Lumen Initiative 029?", "synthetic": true}
+{"as_of": "2026-07-07T09:00:00Z", "category": "temporal", "id": "EVAL-0144", "question": "As of 2026-07-07, what was the planned launch date for Lumen Initiative 029 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0145", "question": "What was the actual production launch completion timestamp for Lumen Subscription Support 029?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0146", "question": "Who owns Lumen Initiative 030?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0147", "question": "Which supplier supplies the product delivered by Lumen Initiative 030?", "synthetic": true}
+{"as_of": "2026-06-30T09:00:00Z", "category": "temporal", "id": "EVAL-0148", "question": "As of 2026-06-30, what was the planned launch date for Lumen Initiative 030?", "synthetic": true}
+{"as_of": "2026-07-08T09:00:00Z", "category": "temporal", "id": "EVAL-0149", "question": "As of 2026-07-08, what was the planned launch date for Lumen Initiative 030 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0150", "question": "What was the actual production launch completion timestamp for Lumen Delivery Coordination 030?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0151", "question": "Who owns Lumen Initiative 031?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0152", "question": "Which supplier supplies the product delivered by Lumen Initiative 031?", "synthetic": true}
+{"as_of": "2026-07-01T09:00:00Z", "category": "temporal", "id": "EVAL-0153", "question": "As of 2026-07-01, what was the planned launch date for Lumen Initiative 031?", "synthetic": true}
+{"as_of": "2026-07-09T09:00:00Z", "category": "temporal", "id": "EVAL-0154", "question": "As of 2026-07-09, what was the planned launch date for Lumen Initiative 031 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0155", "question": "What was the actual production launch completion timestamp for Lumen Document Discovery 031?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0156", "question": "Who owns Lumen Initiative 032?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0157", "question": "Which supplier supplies the product delivered by Lumen Initiative 032?", "synthetic": true}
+{"as_of": "2026-07-02T09:00:00Z", "category": "temporal", "id": "EVAL-0158", "question": "As of 2026-07-02, what was the planned launch date for Lumen Initiative 032?", "synthetic": true}
+{"as_of": "2026-07-10T09:00:00Z", "category": "temporal", "id": "EVAL-0159", "question": "As of 2026-07-10, what was the planned launch date for Lumen Initiative 032 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0160", "question": "What was the actual production launch completion timestamp for Lumen Warehouse Planning 032?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0161", "question": "Who owns Lumen Initiative 033?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0162", "question": "Which supplier supplies the product delivered by Lumen Initiative 033?", "synthetic": true}
+{"as_of": "2026-07-03T09:00:00Z", "category": "temporal", "id": "EVAL-0163", "question": "As of 2026-07-03, what was the planned launch date for Lumen Initiative 033?", "synthetic": true}
+{"as_of": "2026-07-11T09:00:00Z", "category": "temporal", "id": "EVAL-0164", "question": "As of 2026-07-11, what was the planned launch date for Lumen Initiative 033 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0165", "question": "What was the actual production launch completion timestamp for Lumen Learning Operations 033?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0166", "question": "Who owns Lumen Initiative 034?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0167", "question": "Which supplier supplies the product delivered by Lumen Initiative 034?", "synthetic": true}
+{"as_of": "2026-07-04T09:00:00Z", "category": "temporal", "id": "EVAL-0168", "question": "As of 2026-07-04, what was the planned launch date for Lumen Initiative 034?", "synthetic": true}
+{"as_of": "2026-07-12T09:00:00Z", "category": "temporal", "id": "EVAL-0169", "question": "As of 2026-07-12, what was the planned launch date for Lumen Initiative 034 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0170", "question": "What was the actual production launch completion timestamp for Lumen Field Maintenance 034?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0171", "question": "Who owns Lumen Initiative 035?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0172", "question": "Which supplier supplies the product delivered by Lumen Initiative 035?", "synthetic": true}
+{"as_of": "2026-07-05T09:00:00Z", "category": "temporal", "id": "EVAL-0173", "question": "As of 2026-07-05, what was the planned launch date for Lumen Initiative 035?", "synthetic": true}
+{"as_of": "2026-07-13T09:00:00Z", "category": "temporal", "id": "EVAL-0174", "question": "As of 2026-07-13, what was the planned launch date for Lumen Initiative 035 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0175", "question": "What was the actual production launch completion timestamp for Lumen Supplier Onboarding 035?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0176", "question": "Who owns Lumen Initiative 036?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0177", "question": "Which supplier supplies the product delivered by Lumen Initiative 036?", "synthetic": true}
+{"as_of": "2026-07-06T09:00:00Z", "category": "temporal", "id": "EVAL-0178", "question": "As of 2026-07-06, what was the planned launch date for Lumen Initiative 036?", "synthetic": true}
+{"as_of": "2026-07-14T09:00:00Z", "category": "temporal", "id": "EVAL-0179", "question": "As of 2026-07-14, what was the planned launch date for Lumen Initiative 036 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0180", "question": "What was the actual production launch completion timestamp for Lumen Design Collaboration 036?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0181", "question": "Who owns Lumen Initiative 037?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0182", "question": "Which supplier supplies the product delivered by Lumen Initiative 037?", "synthetic": true}
+{"as_of": "2026-07-07T09:00:00Z", "category": "temporal", "id": "EVAL-0183", "question": "As of 2026-07-07, what was the planned launch date for Lumen Initiative 037?", "synthetic": true}
+{"as_of": "2026-07-15T09:00:00Z", "category": "temporal", "id": "EVAL-0184", "question": "As of 2026-07-15, what was the planned launch date for Lumen Initiative 037 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0185", "question": "What was the actual production launch completion timestamp for Lumen Event Operations 037?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0186", "question": "Who owns Lumen Initiative 038?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0187", "question": "Which supplier supplies the product delivered by Lumen Initiative 038?", "synthetic": true}
+{"as_of": "2026-07-08T09:00:00Z", "category": "temporal", "id": "EVAL-0188", "question": "As of 2026-07-08, what was the planned launch date for Lumen Initiative 038?", "synthetic": true}
+{"as_of": "2026-07-16T09:00:00Z", "category": "temporal", "id": "EVAL-0189", "question": "As of 2026-07-16, what was the planned launch date for Lumen Initiative 038 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0190", "question": "What was the actual production launch completion timestamp for Lumen Energy Reporting 038?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0191", "question": "Who owns Lumen Initiative 039?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0192", "question": "Which supplier supplies the product delivered by Lumen Initiative 039?", "synthetic": true}
+{"as_of": "2026-07-09T09:00:00Z", "category": "temporal", "id": "EVAL-0193", "question": "As of 2026-07-09, what was the planned launch date for Lumen Initiative 039?", "synthetic": true}
+{"as_of": "2026-07-17T09:00:00Z", "category": "temporal", "id": "EVAL-0194", "question": "As of 2026-07-17, what was the planned launch date for Lumen Initiative 039 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0195", "question": "What was the actual production launch completion timestamp for Lumen Subscription Support 039?", "synthetic": true}
+{"as_of": null, "category": "single_hop", "id": "EVAL-0196", "question": "Who owns Lumen Initiative 040?", "synthetic": true}
+{"as_of": null, "category": "multi_hop", "id": "EVAL-0197", "question": "Which supplier supplies the product delivered by Lumen Initiative 040?", "synthetic": true}
+{"as_of": "2026-07-10T09:00:00Z", "category": "temporal", "id": "EVAL-0198", "question": "As of 2026-07-10, what was the planned launch date for Lumen Initiative 040?", "synthetic": true}
+{"as_of": "2026-07-18T09:00:00Z", "category": "temporal", "id": "EVAL-0199", "question": "As of 2026-07-18, what was the planned launch date for Lumen Initiative 040 and which milestone did it supersede?", "synthetic": true}
+{"as_of": null, "category": "unanswerable", "id": "EVAL-0200", "question": "What was the actual production launch completion timestamp for Lumen Delivery Coordination 040?", "synthetic": true}

@@ -1,0 +1,81 @@
+{
+  "schema": "macos-ai-synthetic-corpus/1.0",
+  "id": "SCENARIO-02",
+  "name": "supplier-interruption",
+  "synthetic": true,
+  "canonical_format": true,
+  "engine_native_format": false,
+  "engine_integration_status": "Not executed or validated against MiroFish.",
+  "question": "Which stakeholders request evidence, alternative sourcing, or schedule changes?",
+  "intervention": {
+    "text": "The primary supplier cannot deliver the next planned update; an alternate supplier is proposed.",
+    "status": "COUNTERFACTUAL ASSUMPTION, not source fact",
+    "applies_to_project_ids": [
+      "PROJECT-005",
+      "PROJECT-006",
+      "PROJECT-007",
+      "PROJECT-008"
+    ],
+    "scope_note": "Apply the stated intervention separately to each selected project, then explore shared portfolio coordination."
+  },
+  "source_documents": [
+    "DOC-00081",
+    "DOC-00083",
+    "DOC-00084",
+    "DOC-00091",
+    "DOC-00094",
+    "DOC-00097",
+    "DOC-00099",
+    "DOC-00101",
+    "DOC-00103",
+    "DOC-00104",
+    "DOC-00111",
+    "DOC-00114",
+    "DOC-00117",
+    "DOC-00119",
+    "DOC-00121",
+    "DOC-00123",
+    "DOC-00124",
+    "DOC-00131",
+    "DOC-00134",
+    "DOC-00137",
+    "DOC-00139",
+    "DOC-00141",
+    "DOC-00143",
+    "DOC-00144",
+    "DOC-00151",
+    "DOC-00154",
+    "DOC-00157",
+    "DOC-00159"
+  ],
+  "actor_entity_ids": [
+    "PERSON-013",
+    "PERSON-014",
+    "PERSON-015",
+    "PERSON-016",
+    "PERSON-017",
+    "PERSON-018",
+    "PERSON-019",
+    "PERSON-020",
+    "PERSON-021",
+    "PERSON-022",
+    "PERSON-023",
+    "PERSON-024"
+  ],
+  "reference_graph": "reference_graph/",
+  "recommended_first_run": {
+    "actors": 12,
+    "rounds": 5,
+    "max_concurrent_llm_requests": 2,
+    "random_seed": 731903,
+    "notes": "These are app-side budgets, not a claim about upstream MiroFish parameter names."
+  },
+  "expected_outputs": [
+    "action log",
+    "stakeholder summaries",
+    "assumption list",
+    "source evidence references",
+    "run configuration"
+  ],
+  "evaluation_boundary": "Explore hypotheses. Outcomes are not validated forecasts or factual additions to the source corpus."
+}

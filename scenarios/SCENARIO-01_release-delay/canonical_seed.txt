@@ -1,0 +1,239 @@
+SYNTHETIC CANONICAL SIMULATION SEED: SCENARIO-01
+Not a native MiroFish API payload. Convert through a version-pinned adapter.
+Question: How might stakeholders revise scope, communication, and readiness decisions?
+COUNTERFACTUAL INTERVENTION: A required dependency is delayed by fourteen days after the latest release decision.
+Scope: Apply separately to each selected project; the shared company coordinates the portfolio response.
+
+ACTORS
+PERSON-001: Ava Cedar (001, synthetic)
+PERSON-002: Milo Cedar (002, synthetic)
+PERSON-003: Nora Cedar (003, synthetic)
+PERSON-004: Ezra Cedar (004, synthetic)
+PERSON-005: Lina Cedar (005, synthetic)
+PERSON-006: Owen Cedar (006, synthetic)
+PERSON-007: Maya Cedar (007, synthetic)
+PERSON-008: Theo Cedar (008, synthetic)
+PERSON-009: Iris Cedar (009, synthetic)
+PERSON-010: Noel Cedar (010, synthetic)
+PERSON-011: Sana Cedar (011, synthetic)
+PERSON-012: Eli Cedar (012, synthetic)
+
+SOURCE EVIDENCE (facts from fictional source records; preserve IDs)
+
+DOCUMENT DOC-00001 | 2026-06-01T09:00:00Z | corpus/documents/DOC-00001.md
+[DOC-00001:S01] Lumen Initiative 001 delivers Lumen Document Discovery 001.
+[DOC-00001:S02] Lumen Initiative 001 is owned by Ava Cedar (001, synthetic).
+[DOC-00001:S03] Lumen Initiative 001 is sponsored by Milo Cedar (002, synthetic).
+[DOC-00001:S04] Lumen Document Discovery 001 serves Cedar Pilot Organization 001.
+[DOC-00001:S05] Lumen Initiative 001 belongs to Aster Vale Systems (fictional).
+[DOC-00001:S06] Delivery Team 01 operates Lumen 001 Interface.
+[DOC-00001:S07] Lumen 001 Interface is part of Lumen Document Discovery 001.
+
+DOCUMENT DOC-00003 | 2026-06-05T09:00:00Z | corpus/documents/DOC-00003.md
+[DOC-00003:S01] Lumen Document Discovery 001 is supplied by Fable Supply 01.
+[DOC-00003:S02] Fable Supply 01 supplies Lumen 001 Index.
+[DOC-00003:S03] Ava Cedar (001, synthetic) manages the supplier agreement for Lumen Initiative 001.
+[DOC-00003:S04] Delivery Team 01 operates Lumen 001 Index.
+[DOC-00003:S05] Lumen 001 Index is part of Lumen Document Discovery 001.
+
+DOCUMENT DOC-00004 | 2026-06-07T09:00:00Z | corpus/documents/DOC-00004.md
+[DOC-00004:S01] Ava Cedar (001, synthetic) operates Lumen Initiative 001.
+[DOC-00004:S02] Lumen Document Discovery 001 depends on Lumen 001 Job Queue for the capacity and queue plan scope.
+[DOC-00004:S03] Cedar Pilot Organization 001 participates in the capacity and queue plan for Lumen Initiative 001.
+[DOC-00004:S04] Delivery Team 01 operates Lumen 001 Job Queue.
+[DOC-00004:S05] Lumen 001 Job Queue is part of Lumen Document Discovery 001.
+[DOC-00004:S06] Lumen Document Discovery 001 has a planning capacity of 40 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00011 | 2026-06-21T09:00:00Z | corpus/documents/DOC-00011.md
+[DOC-00011:S01] Nora Cedar (003, synthetic) observes pilot use of Lumen Initiative 001.
+[DOC-00011:S02] Lumen Document Discovery 001 depends on Lumen 001 Interface for the pilot feedback report scope.
+[DOC-00011:S03] Cedar Pilot Organization 001 participates in the pilot feedback report for Lumen Initiative 001.
+[DOC-00011:S04] Delivery Team 01 operates Lumen 001 Interface.
+[DOC-00011:S05] Lumen 001 Interface is part of Lumen Document Discovery 001.
+[DOC-00011:S06] Cedar Pilot Organization 001 enrolled 24 synthetic users in the pilot.
+
+DOCUMENT DOC-00014 | 2026-06-27T09:00:00Z | corpus/documents/DOC-00014.md
+[DOC-00014:S01] Lumen Initiative 001 is scheduled for Lumen 001 baseline launch.
+[DOC-00014:S02] Milo Cedar (002, synthetic) authorizes the baseline schedule for Lumen Initiative 001.
+[DOC-00014:S03] Lumen 001 baseline launch is planned for 2026-07-31.
+[DOC-00014:S04] Delivery Team 01 operates Lumen 001 Job Queue.
+[DOC-00014:S05] Lumen 001 Job Queue is part of Lumen Document Discovery 001.
+
+DOCUMENT DOC-00017 | 2026-07-03T09:00:00Z | corpus/documents/DOC-00017.md
+[DOC-00017:S01] Lumen Initiative 001 is scheduled for Lumen 001 revised launch.
+[DOC-00017:S02] Lumen 001 revised launch supersedes Lumen 001 baseline launch.
+[DOC-00017:S03] Lumen 001 revised launch is planned for 2026-08-07.
+[DOC-00017:S04] Milo Cedar (002, synthetic) approves the revised schedule for Lumen Initiative 001.
+[DOC-00017:S05] Delivery Team 01 operates Lumen 001 Gateway.
+[DOC-00017:S06] Lumen 001 Gateway is part of Lumen Document Discovery 001.
+
+DOCUMENT DOC-00019 | 2026-07-07T09:00:00Z | corpus/documents/DOC-00019.md
+[DOC-00019:S01] Ava Cedar (001, synthetic) supports Lumen Initiative 001.
+[DOC-00019:S02] Lumen Document Discovery 001 depends on Lumen 001 Job Queue for the support readiness note scope.
+[DOC-00019:S03] Cedar Pilot Organization 001 participates in the support readiness note for Lumen Initiative 001.
+[DOC-00019:S04] Delivery Team 01 operates Lumen 001 Job Queue.
+[DOC-00019:S05] Lumen 001 Job Queue is part of Lumen Document Discovery 001.
+
+DOCUMENT DOC-00021 | 2026-06-02T09:00:00Z | corpus/documents/DOC-00021.md
+[DOC-00021:S01] Lumen Initiative 002 delivers Lumen Warehouse Planning 002.
+[DOC-00021:S02] Lumen Initiative 002 is owned by Ezra Cedar (004, synthetic).
+[DOC-00021:S03] Lumen Initiative 002 is sponsored by Lina Cedar (005, synthetic).
+[DOC-00021:S04] Lumen Warehouse Planning 002 serves Cedar Pilot Organization 002.
+[DOC-00021:S05] Lumen Initiative 002 belongs to Aster Vale Systems (fictional).
+[DOC-00021:S06] Delivery Team 02 operates Lumen 002 Interface.
+[DOC-00021:S07] Lumen 002 Interface is part of Lumen Warehouse Planning 002.
+
+DOCUMENT DOC-00023 | 2026-06-06T09:00:00Z | corpus/documents/DOC-00023.md
+[DOC-00023:S01] Lumen Warehouse Planning 002 is supplied by Fable Supply 02.
+[DOC-00023:S02] Fable Supply 02 supplies Lumen 002 Index.
+[DOC-00023:S03] Ezra Cedar (004, synthetic) manages the supplier agreement for Lumen Initiative 002.
+[DOC-00023:S04] Delivery Team 02 operates Lumen 002 Index.
+[DOC-00023:S05] Lumen 002 Index is part of Lumen Warehouse Planning 002.
+
+DOCUMENT DOC-00024 | 2026-06-08T09:00:00Z | corpus/documents/DOC-00024.md
+[DOC-00024:S01] Ezra Cedar (004, synthetic) operates Lumen Initiative 002.
+[DOC-00024:S02] Lumen Warehouse Planning 002 depends on Lumen 002 Job Queue for the capacity and queue plan scope.
+[DOC-00024:S03] Cedar Pilot Organization 002 participates in the capacity and queue plan for Lumen Initiative 002.
+[DOC-00024:S04] Delivery Team 02 operates Lumen 002 Job Queue.
+[DOC-00024:S05] Lumen 002 Job Queue is part of Lumen Warehouse Planning 002.
+[DOC-00024:S06] Lumen Warehouse Planning 002 has a planning capacity of 55 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00031 | 2026-06-22T09:00:00Z | corpus/documents/DOC-00031.md
+[DOC-00031:S01] Owen Cedar (006, synthetic) observes pilot use of Lumen Initiative 002.
+[DOC-00031:S02] Lumen Warehouse Planning 002 depends on Lumen 002 Interface for the pilot feedback report scope.
+[DOC-00031:S03] Cedar Pilot Organization 002 participates in the pilot feedback report for Lumen Initiative 002.
+[DOC-00031:S04] Delivery Team 02 operates Lumen 002 Interface.
+[DOC-00031:S05] Lumen 002 Interface is part of Lumen Warehouse Planning 002.
+[DOC-00031:S06] Cedar Pilot Organization 002 enrolled 32 synthetic users in the pilot.
+
+DOCUMENT DOC-00034 | 2026-06-28T09:00:00Z | corpus/documents/DOC-00034.md
+[DOC-00034:S01] Lumen Initiative 002 is scheduled for Lumen 002 baseline launch.
+[DOC-00034:S02] Lina Cedar (005, synthetic) authorizes the baseline schedule for Lumen Initiative 002.
+[DOC-00034:S03] Lumen 002 baseline launch is planned for 2026-08-01.
+[DOC-00034:S04] Delivery Team 02 operates Lumen 002 Job Queue.
+[DOC-00034:S05] Lumen 002 Job Queue is part of Lumen Warehouse Planning 002.
+
+DOCUMENT DOC-00037 | 2026-07-04T09:00:00Z | corpus/documents/DOC-00037.md
+[DOC-00037:S01] Lumen Initiative 002 is scheduled for Lumen 002 revised launch.
+[DOC-00037:S02] Lumen 002 revised launch supersedes Lumen 002 baseline launch.
+[DOC-00037:S03] Lumen 002 revised launch is planned for 2026-08-15.
+[DOC-00037:S04] Lina Cedar (005, synthetic) approves the revised schedule for Lumen Initiative 002.
+[DOC-00037:S05] Delivery Team 02 operates Lumen 002 Gateway.
+[DOC-00037:S06] Lumen 002 Gateway is part of Lumen Warehouse Planning 002.
+
+DOCUMENT DOC-00039 | 2026-07-08T09:00:00Z | corpus/documents/DOC-00039.md
+[DOC-00039:S01] Ezra Cedar (004, synthetic) supports Lumen Initiative 002.
+[DOC-00039:S02] Lumen Warehouse Planning 002 depends on Lumen 002 Job Queue for the support readiness note scope.
+[DOC-00039:S03] Cedar Pilot Organization 002 participates in the support readiness note for Lumen Initiative 002.
+[DOC-00039:S04] Delivery Team 02 operates Lumen 002 Job Queue.
+[DOC-00039:S05] Lumen 002 Job Queue is part of Lumen Warehouse Planning 002.
+
+DOCUMENT DOC-00041 | 2026-06-03T09:00:00Z | corpus/documents/DOC-00041.md
+[DOC-00041:S01] Lumen Initiative 003 delivers Lumen Learning Operations 003.
+[DOC-00041:S02] Lumen Initiative 003 is owned by Maya Cedar (007, synthetic).
+[DOC-00041:S03] Lumen Initiative 003 is sponsored by Theo Cedar (008, synthetic).
+[DOC-00041:S04] Lumen Learning Operations 003 serves Cedar Pilot Organization 003.
+[DOC-00041:S05] Lumen Initiative 003 belongs to Aster Vale Systems (fictional).
+[DOC-00041:S06] Delivery Team 03 operates Lumen 003 Interface.
+[DOC-00041:S07] Lumen 003 Interface is part of Lumen Learning Operations 003.
+
+DOCUMENT DOC-00043 | 2026-06-07T09:00:00Z | corpus/documents/DOC-00043.md
+[DOC-00043:S01] Lumen Learning Operations 003 is supplied by Fable Supply 03.
+[DOC-00043:S02] Fable Supply 03 supplies Lumen 003 Index.
+[DOC-00043:S03] Maya Cedar (007, synthetic) manages the supplier agreement for Lumen Initiative 003.
+[DOC-00043:S04] Delivery Team 03 operates Lumen 003 Index.
+[DOC-00043:S05] Lumen 003 Index is part of Lumen Learning Operations 003.
+
+DOCUMENT DOC-00044 | 2026-06-09T09:00:00Z | corpus/documents/DOC-00044.md
+[DOC-00044:S01] Maya Cedar (007, synthetic) operates Lumen Initiative 003.
+[DOC-00044:S02] Lumen Learning Operations 003 depends on Lumen 003 Job Queue for the capacity and queue plan scope.
+[DOC-00044:S03] Cedar Pilot Organization 003 participates in the capacity and queue plan for Lumen Initiative 003.
+[DOC-00044:S04] Delivery Team 03 operates Lumen 003 Job Queue.
+[DOC-00044:S05] Lumen 003 Job Queue is part of Lumen Learning Operations 003.
+[DOC-00044:S06] Lumen Learning Operations 003 has a planning capacity of 70 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00051 | 2026-06-23T09:00:00Z | corpus/documents/DOC-00051.md
+[DOC-00051:S01] Iris Cedar (009, synthetic) observes pilot use of Lumen Initiative 003.
+[DOC-00051:S02] Lumen Learning Operations 003 depends on Lumen 003 Interface for the pilot feedback report scope.
+[DOC-00051:S03] Cedar Pilot Organization 003 participates in the pilot feedback report for Lumen Initiative 003.
+[DOC-00051:S04] Delivery Team 03 operates Lumen 003 Interface.
+[DOC-00051:S05] Lumen 003 Interface is part of Lumen Learning Operations 003.
+[DOC-00051:S06] Cedar Pilot Organization 003 enrolled 40 synthetic users in the pilot.
+
+DOCUMENT DOC-00054 | 2026-06-29T09:00:00Z | corpus/documents/DOC-00054.md
+[DOC-00054:S01] Lumen Initiative 003 is scheduled for Lumen 003 baseline launch.
+[DOC-00054:S02] Theo Cedar (008, synthetic) authorizes the baseline schedule for Lumen Initiative 003.
+[DOC-00054:S03] Lumen 003 baseline launch is planned for 2026-08-02.
+[DOC-00054:S04] Delivery Team 03 operates Lumen 003 Job Queue.
+[DOC-00054:S05] Lumen 003 Job Queue is part of Lumen Learning Operations 003.
+
+DOCUMENT DOC-00057 | 2026-07-05T09:00:00Z | corpus/documents/DOC-00057.md
+[DOC-00057:S01] Lumen Initiative 003 is scheduled for Lumen 003 revised launch.
+[DOC-00057:S02] Lumen 003 revised launch supersedes Lumen 003 baseline launch.
+[DOC-00057:S03] Lumen 003 revised launch is planned for 2026-08-23.
+[DOC-00057:S04] Theo Cedar (008, synthetic) approves the revised schedule for Lumen Initiative 003.
+[DOC-00057:S05] Delivery Team 03 operates Lumen 003 Gateway.
+[DOC-00057:S06] Lumen 003 Gateway is part of Lumen Learning Operations 003.
+
+DOCUMENT DOC-00059 | 2026-07-09T09:00:00Z | corpus/documents/DOC-00059.md
+[DOC-00059:S01] Maya Cedar (007, synthetic) supports Lumen Initiative 003.
+[DOC-00059:S02] Lumen Learning Operations 003 depends on Lumen 003 Job Queue for the support readiness note scope.
+[DOC-00059:S03] Cedar Pilot Organization 003 participates in the support readiness note for Lumen Initiative 003.
+[DOC-00059:S04] Delivery Team 03 operates Lumen 003 Job Queue.
+[DOC-00059:S05] Lumen 003 Job Queue is part of Lumen Learning Operations 003.
+
+DOCUMENT DOC-00061 | 2026-06-04T09:00:00Z | corpus/documents/DOC-00061.md
+[DOC-00061:S01] Lumen Initiative 004 delivers Lumen Field Maintenance 004.
+[DOC-00061:S02] Lumen Initiative 004 is owned by Noel Cedar (010, synthetic).
+[DOC-00061:S03] Lumen Initiative 004 is sponsored by Sana Cedar (011, synthetic).
+[DOC-00061:S04] Lumen Field Maintenance 004 serves Cedar Pilot Organization 004.
+[DOC-00061:S05] Lumen Initiative 004 belongs to Aster Vale Systems (fictional).
+[DOC-00061:S06] Delivery Team 04 operates Lumen 004 Interface.
+[DOC-00061:S07] Lumen 004 Interface is part of Lumen Field Maintenance 004.
+
+DOCUMENT DOC-00063 | 2026-06-08T09:00:00Z | corpus/documents/DOC-00063.md
+[DOC-00063:S01] Lumen Field Maintenance 004 is supplied by Fable Supply 04.
+[DOC-00063:S02] Fable Supply 04 supplies Lumen 004 Index.
+[DOC-00063:S03] Noel Cedar (010, synthetic) manages the supplier agreement for Lumen Initiative 004.
+[DOC-00063:S04] Delivery Team 04 operates Lumen 004 Index.
+[DOC-00063:S05] Lumen 004 Index is part of Lumen Field Maintenance 004.
+
+DOCUMENT DOC-00064 | 2026-06-10T09:00:00Z | corpus/documents/DOC-00064.md
+[DOC-00064:S01] Noel Cedar (010, synthetic) operates Lumen Initiative 004.
+[DOC-00064:S02] Lumen Field Maintenance 004 depends on Lumen 004 Job Queue for the capacity and queue plan scope.
+[DOC-00064:S03] Cedar Pilot Organization 004 participates in the capacity and queue plan for Lumen Initiative 004.
+[DOC-00064:S04] Delivery Team 04 operates Lumen 004 Job Queue.
+[DOC-00064:S05] Lumen 004 Job Queue is part of Lumen Field Maintenance 004.
+[DOC-00064:S06] Lumen Field Maintenance 004 has a planning capacity of 85 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00071 | 2026-06-24T09:00:00Z | corpus/documents/DOC-00071.md
+[DOC-00071:S01] Eli Cedar (012, synthetic) observes pilot use of Lumen Initiative 004.
+[DOC-00071:S02] Lumen Field Maintenance 004 depends on Lumen 004 Interface for the pilot feedback report scope.
+[DOC-00071:S03] Cedar Pilot Organization 004 participates in the pilot feedback report for Lumen Initiative 004.
+[DOC-00071:S04] Delivery Team 04 operates Lumen 004 Interface.
+[DOC-00071:S05] Lumen 004 Interface is part of Lumen Field Maintenance 004.
+[DOC-00071:S06] Cedar Pilot Organization 004 enrolled 48 synthetic users in the pilot.
+
+DOCUMENT DOC-00074 | 2026-06-30T09:00:00Z | corpus/documents/DOC-00074.md
+[DOC-00074:S01] Lumen Initiative 004 is scheduled for Lumen 004 baseline launch.
+[DOC-00074:S02] Sana Cedar (011, synthetic) authorizes the baseline schedule for Lumen Initiative 004.
+[DOC-00074:S03] Lumen 004 baseline launch is planned for 2026-08-03.
+[DOC-00074:S04] Delivery Team 04 operates Lumen 004 Job Queue.
+[DOC-00074:S05] Lumen 004 Job Queue is part of Lumen Field Maintenance 004.
+
+DOCUMENT DOC-00077 | 2026-07-06T09:00:00Z | corpus/documents/DOC-00077.md
+[DOC-00077:S01] Lumen Initiative 004 is scheduled for Lumen 004 revised launch.
+[DOC-00077:S02] Lumen 004 revised launch supersedes Lumen 004 baseline launch.
+[DOC-00077:S03] Lumen 004 revised launch is planned for 2026-08-10.
+[DOC-00077:S04] Sana Cedar (011, synthetic) approves the revised schedule for Lumen Initiative 004.
+[DOC-00077:S05] Delivery Team 04 operates Lumen 004 Gateway.
+[DOC-00077:S06] Lumen 004 Gateway is part of Lumen Field Maintenance 004.
+
+DOCUMENT DOC-00079 | 2026-07-10T09:00:00Z | corpus/documents/DOC-00079.md
+[DOC-00079:S01] Noel Cedar (010, synthetic) supports Lumen Initiative 004.
+[DOC-00079:S02] Lumen Field Maintenance 004 depends on Lumen 004 Job Queue for the support readiness note scope.
+[DOC-00079:S03] Cedar Pilot Organization 004 participates in the support readiness note for Lumen Initiative 004.
+[DOC-00079:S04] Delivery Team 04 operates Lumen 004 Job Queue.
+[DOC-00079:S05] Lumen 004 Job Queue is part of Lumen Field Maintenance 004.
+
+BOUNDARY: Agent actions, preferences, and outcomes generated during simulation are simulated. Keep them separate from source assertions.

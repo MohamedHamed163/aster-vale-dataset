@@ -1,0 +1,81 @@
+{
+  "schema": "macos-ai-synthetic-corpus/1.0",
+  "id": "SCENARIO-01",
+  "name": "release-delay",
+  "synthetic": true,
+  "canonical_format": true,
+  "engine_native_format": false,
+  "engine_integration_status": "Not executed or validated against MiroFish.",
+  "question": "How might stakeholders revise scope, communication, and readiness decisions?",
+  "intervention": {
+    "text": "A required dependency is delayed by fourteen days after the latest release decision.",
+    "status": "COUNTERFACTUAL ASSUMPTION, not source fact",
+    "applies_to_project_ids": [
+      "PROJECT-001",
+      "PROJECT-002",
+      "PROJECT-003",
+      "PROJECT-004"
+    ],
+    "scope_note": "Apply the stated intervention separately to each selected project, then explore shared portfolio coordination."
+  },
+  "source_documents": [
+    "DOC-00001",
+    "DOC-00003",
+    "DOC-00004",
+    "DOC-00011",
+    "DOC-00014",
+    "DOC-00017",
+    "DOC-00019",
+    "DOC-00021",
+    "DOC-00023",
+    "DOC-00024",
+    "DOC-00031",
+    "DOC-00034",
+    "DOC-00037",
+    "DOC-00039",
+    "DOC-00041",
+    "DOC-00043",
+    "DOC-00044",
+    "DOC-00051",
+    "DOC-00054",
+    "DOC-00057",
+    "DOC-00059",
+    "DOC-00061",
+    "DOC-00063",
+    "DOC-00064",
+    "DOC-00071",
+    "DOC-00074",
+    "DOC-00077",
+    "DOC-00079"
+  ],
+  "actor_entity_ids": [
+    "PERSON-001",
+    "PERSON-002",
+    "PERSON-003",
+    "PERSON-004",
+    "PERSON-005",
+    "PERSON-006",
+    "PERSON-007",
+    "PERSON-008",
+    "PERSON-009",
+    "PERSON-010",
+    "PERSON-011",
+    "PERSON-012"
+  ],
+  "reference_graph": "reference_graph/",
+  "recommended_first_run": {
+    "actors": 12,
+    "rounds": 5,
+    "max_concurrent_llm_requests": 2,
+    "random_seed": 731902,
+    "notes": "These are app-side budgets, not a claim about upstream MiroFish parameter names."
+  },
+  "expected_outputs": [
+    "action log",
+    "stakeholder summaries",
+    "assumption list",
+    "source evidence references",
+    "run configuration"
+  ],
+  "evaluation_boundary": "Explore hypotheses. Outcomes are not validated forecasts or factual additions to the source corpus."
+}

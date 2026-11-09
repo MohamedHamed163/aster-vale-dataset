@@ -1,0 +1,336 @@
+{
+  "schema": "rich-format-fixtures/1.0",
+  "synthetic": true,
+  "description": "Alternate representations of canonical source documents. Not 36 additional independent records.",
+  "files": [
+    {
+      "path": "rich_fixtures/images/DOC-00001_scan.png",
+      "variant_of": "DOC-00001",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "85f0ed61f8472a4bfd8ed3b258dff463239b8306948933af02bc1a89b4af8c02",
+      "source_sha256": "e5104131951c1205fbda32f2f23efc089b7f77451bdbad15f82c111bf02c2bcb"
+    },
+    {
+      "path": "rich_fixtures/scanned_pdf/DOC-00001_image_only.pdf",
+      "variant_of": "DOC-00001",
+      "format": "pdf",
+      "purpose": "scanned PDF OCR",
+      "is_excerpt": false,
+      "sha256": "069100affe52bbd2469d4a14b6b46e0c5f0da1ba2ea6cb487fb9cebdfcefcea2",
+      "source_sha256": "e5104131951c1205fbda32f2f23efc089b7f77451bdbad15f82c111bf02c2bcb"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00001.pdf",
+      "variant_of": "DOC-00001",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "1e30258e18be94f1a112ed7cbcfadced449801f3a306c25cfbaf61967dc0f61b",
+      "source_sha256": "e5104131951c1205fbda32f2f23efc089b7f77451bdbad15f82c111bf02c2bcb"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00001.docx",
+      "variant_of": "DOC-00001",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "26e800ae57bc7c35bb5f6c128a9c90592b6e05616b4e6c3de5c6c051c4955b16",
+      "source_sha256": "e5104131951c1205fbda32f2f23efc089b7f77451bdbad15f82c111bf02c2bcb"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00002_scan.png",
+      "variant_of": "DOC-00002",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "5f278cbc81833d80906bd48e99a4138e9cffa353a1a882da88826b9be58e3228",
+      "source_sha256": "ed92ab38e9ddb629846fa28a44fa8b6d4d58010c5c95f1cd521e9113831cdfad"
+    },
+    {
+      "path": "rich_fixtures/scanned_pdf/DOC-00002_image_only.pdf",
+      "variant_of": "DOC-00002",
+      "format": "pdf",
+      "purpose": "scanned PDF OCR",
+      "is_excerpt": false,
+      "sha256": "d7ee190801c84f22f9e79bb9d402b7f4a0029fb50174ebc1d5e1c95eda3f6383",
+      "source_sha256": "ed92ab38e9ddb629846fa28a44fa8b6d4d58010c5c95f1cd521e9113831cdfad"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00002.pdf",
+      "variant_of": "DOC-00002",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "5a95f9f408d72327585bcd6490bba55e08be8a449ab8d2e26097d337dc1f7564",
+      "source_sha256": "ed92ab38e9ddb629846fa28a44fa8b6d4d58010c5c95f1cd521e9113831cdfad"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00002.docx",
+      "variant_of": "DOC-00002",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "bed654dcdaa5f83c9bb3ee3c917bfa8b50415d5e3e99c2ae680ea0b99cdf9495",
+      "source_sha256": "ed92ab38e9ddb629846fa28a44fa8b6d4d58010c5c95f1cd521e9113831cdfad"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00003_scan.png",
+      "variant_of": "DOC-00003",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "6c4fe214e9c91e53fb11db9c2c314a352997b7c544ace3232e1eb22bb44a0397",
+      "source_sha256": "56dc51c49b2eb8d5b33f8797732bea7ef77da377e1ea9623628a53ce2599cc29"
+    },
+    {
+      "path": "rich_fixtures/scanned_pdf/DOC-00003_image_only.pdf",
+      "variant_of": "DOC-00003",
+      "format": "pdf",
+      "purpose": "scanned PDF OCR",
+      "is_excerpt": false,
+      "sha256": "63086f66aae751d5e182175940add04dc939a4d403ed8193fc7563069af4d4ea",
+      "source_sha256": "56dc51c49b2eb8d5b33f8797732bea7ef77da377e1ea9623628a53ce2599cc29"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00003.pdf",
+      "variant_of": "DOC-00003",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "9cda741bfbd8352d3839fa38dbf1e19cd5e175d1f442ede5bc587bb9971fc93a",
+      "source_sha256": "56dc51c49b2eb8d5b33f8797732bea7ef77da377e1ea9623628a53ce2599cc29"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00003.docx",
+      "variant_of": "DOC-00003",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "0adc4cc22db023dd972d0f06f83b7bdaae84333b15d8947ca331820dc8c865b3",
+      "source_sha256": "56dc51c49b2eb8d5b33f8797732bea7ef77da377e1ea9623628a53ce2599cc29"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00004_scan.png",
+      "variant_of": "DOC-00004",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "d73a182ed83f932d14b4a95e82f647365fff7b0cfc00034021ad4735423328cc",
+      "source_sha256": "a0157e71d505ddc208bc3c7a24081c1a03fd7ac8ed4cffdc7e73d0fb12d04dad"
+    },
+    {
+      "path": "rich_fixtures/scanned_pdf/DOC-00004_image_only.pdf",
+      "variant_of": "DOC-00004",
+      "format": "pdf",
+      "purpose": "scanned PDF OCR",
+      "is_excerpt": false,
+      "sha256": "253e86976b3de18c8fa51a4802e4878a9a585dec2cb642f1e7743cd4341ee99a",
+      "source_sha256": "a0157e71d505ddc208bc3c7a24081c1a03fd7ac8ed4cffdc7e73d0fb12d04dad"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00004.pdf",
+      "variant_of": "DOC-00004",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "6fdd2562aa1d1295fc8df1f58f06ba579d26fc614b9c51a66cd2b356611a2af3",
+      "source_sha256": "a0157e71d505ddc208bc3c7a24081c1a03fd7ac8ed4cffdc7e73d0fb12d04dad"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00004.docx",
+      "variant_of": "DOC-00004",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "ab5eb1ccf637df2c3863ce6900769b7728c95111e3f222fe498b30f1d87c89d7",
+      "source_sha256": "a0157e71d505ddc208bc3c7a24081c1a03fd7ac8ed4cffdc7e73d0fb12d04dad"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00005_scan.png",
+      "variant_of": "DOC-00005",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "c5ac9b0a60cbae987dcf9fdcba80fc73dcba13385dfd244cac526b5cc14f09b4",
+      "source_sha256": "0272d40dbfbf6805c00b5fbfcc716dbacf0084fc6faa98fa0498a04fa37125e0"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00005.pdf",
+      "variant_of": "DOC-00005",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "a38de52efa3ad1c88353b87b50e0ac73eac8264406b906a6546149a2e1b00431",
+      "source_sha256": "0272d40dbfbf6805c00b5fbfcc716dbacf0084fc6faa98fa0498a04fa37125e0"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00005.docx",
+      "variant_of": "DOC-00005",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "9b5f94e38ae045b6c5cc076f875ed4d0428b03eaa8c93036692fba5e80d94489",
+      "source_sha256": "0272d40dbfbf6805c00b5fbfcc716dbacf0084fc6faa98fa0498a04fa37125e0"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00006_scan.png",
+      "variant_of": "DOC-00006",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "6a306f933890360dbe16d3d657946e8de179450cf7d978056d5994566545b657",
+      "source_sha256": "1670ba0dbb61cca9f3fbb0d5419d3e3ab5220eb8f342c719181287928f578856"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00006.pdf",
+      "variant_of": "DOC-00006",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "48865747e0e80b08b1d4b069a85c9cf6160aa479eae5c3f398ab1d124bf6d8fd",
+      "source_sha256": "1670ba0dbb61cca9f3fbb0d5419d3e3ab5220eb8f342c719181287928f578856"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00006.docx",
+      "variant_of": "DOC-00006",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "4321c8c479e63ddf9c68a9c3d58ea4f90af932988c2973919a5339c1ead69533",
+      "source_sha256": "1670ba0dbb61cca9f3fbb0d5419d3e3ab5220eb8f342c719181287928f578856"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00007_scan.png",
+      "variant_of": "DOC-00007",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "f307b44861227a8e98e8ed76e2780f0fff8e55ead4d840a1b1a4d648bf348120",
+      "source_sha256": "731bc627e6c32715b4c85166db43e89276e8e4b733987cf6851dfdf47d2dff86"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00007.pdf",
+      "variant_of": "DOC-00007",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "1a6d5715f5acdb795d9f60f846a3e584c4e50121e3f69ffffd2a860d10725b46",
+      "source_sha256": "731bc627e6c32715b4c85166db43e89276e8e4b733987cf6851dfdf47d2dff86"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00007.docx",
+      "variant_of": "DOC-00007",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "4fcec5626aabd44bab283eae7a992d761eedad45d6cb4470331406bc8eb6f657",
+      "source_sha256": "731bc627e6c32715b4c85166db43e89276e8e4b733987cf6851dfdf47d2dff86"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00008_scan.png",
+      "variant_of": "DOC-00008",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "d6e9e535036c5452da0c593acb54997ebcacd5ef08b25c212718c4267b1d2643",
+      "source_sha256": "c967a1c1e820d79e13b4e8b5a6012d9a1ffe65c895a82344e8381e587c184646"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00008.pdf",
+      "variant_of": "DOC-00008",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "2224be0604a3c54c486dc56fee70cf3d0a6a21fc4bd9b686785e673ef2afcfc0",
+      "source_sha256": "c967a1c1e820d79e13b4e8b5a6012d9a1ffe65c895a82344e8381e587c184646"
+    },
+    {
+      "path": "rich_fixtures/docx/DOC-00008.docx",
+      "variant_of": "DOC-00008",
+      "format": "docx",
+      "purpose": "native DOCX import with table",
+      "is_excerpt": false,
+      "sha256": "9d2a87768377f6544874abea43df32e51f18c8b958b5c947f23ae9034bd1dc8e",
+      "source_sha256": "c967a1c1e820d79e13b4e8b5a6012d9a1ffe65c895a82344e8381e587c184646"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00009_scan.png",
+      "variant_of": "DOC-00009",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "ba980d4255ea87d89c99123cfc0556c5c298bde53e5dc497204580a065673e40",
+      "source_sha256": "264bf3448d666924232caa3bfdc8085c63526bab835c38b6739e0f865e55e661"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00009.pdf",
+      "variant_of": "DOC-00009",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "08e00ba4e58c4b86ffc836eebaec572ab7dcb75fea56d8b7c920d738bfc16e40",
+      "source_sha256": "264bf3448d666924232caa3bfdc8085c63526bab835c38b6739e0f865e55e661"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00010_scan.png",
+      "variant_of": "DOC-00010",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "cf9bd4f2c1ea63d04401a6a7d38abf3c9d33d415098f6878f99eaf62d32b1441",
+      "source_sha256": "aa7fe39297c8f5fd6a688178473d0b48ed681e4b44c7dfd07b5f5fddbf91d844"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00010.pdf",
+      "variant_of": "DOC-00010",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "345932e3142dc75e1dc239024c115e8c133917de1ced4ccd3db41b596115446b",
+      "source_sha256": "aa7fe39297c8f5fd6a688178473d0b48ed681e4b44c7dfd07b5f5fddbf91d844"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00011_scan.png",
+      "variant_of": "DOC-00011",
+      "format": "png",
+      "purpose": "image OCR",
+      "is_excerpt": false,
+      "sha256": "80c464ca38e13443fd0fbac4b1405c9061c6df6cd1010dc5a53835db9d1715f7",
+      "source_sha256": "ec0c7dd67d078e8249d15897824d364ce9a1be412f8eb6765f9b473c1f0bea05"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00011.pdf",
+      "variant_of": "DOC-00011",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "4b429879b845430b5be650f8f3a752f385c985d2d439f5f375bf39a01b21445d",
+      "source_sha256": "ec0c7dd67d078e8249d15897824d364ce9a1be412f8eb6765f9b473c1f0bea05"
+    },
+    {
+      "path": "rich_fixtures/pdf/DOC-00012.pdf",
+      "variant_of": "DOC-00012",
+      "format": "pdf",
+      "purpose": "digital PDF extraction",
+      "is_excerpt": false,
+      "sha256": "297050b999360b376440273b9e12688df25084d5765378e4b314666801884b25",
+      "source_sha256": "1f5e7eb9b9edc13df3f3a0c3b480e5ca0c55b7c244e336057aea7dce96b7f36c"
+    },
+    {
+      "path": "rich_fixtures/images/DOC-00001_relationships.png",
+      "variant_of": "DOC-00001",
+      "format": "png",
+      "purpose": "text and relationship diagram",
+      "is_excerpt": true,
+      "statement_ids": [
+        "DOC-00001:S01",
+        "DOC-00001:S02",
+        "DOC-00001:S03"
+      ],
+      "sha256": "9389bdfe02bbb22b8ee485adcb4385be374e5360db95b9b82a2f076a8a729de4",
+      "source_sha256": "e5104131951c1205fbda32f2f23efc089b7f77451bdbad15f82c111bf02c2bcb"
+    }
+  ]
+}

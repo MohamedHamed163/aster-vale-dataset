@@ -1,0 +1,81 @@
+{
+  "schema": "macos-ai-synthetic-corpus/1.0",
+  "id": "SCENARIO-04",
+  "name": "budget-reduction",
+  "synthetic": true,
+  "canonical_format": true,
+  "engine_native_format": false,
+  "engine_integration_status": "Not executed or validated against MiroFish.",
+  "question": "Which priorities are retained, deferred, or challenged by the stakeholders?",
+  "intervention": {
+    "text": "The next planning budget is reduced by twenty percent after pilot feedback is published.",
+    "status": "COUNTERFACTUAL ASSUMPTION, not source fact",
+    "applies_to_project_ids": [
+      "PROJECT-013",
+      "PROJECT-014",
+      "PROJECT-015",
+      "PROJECT-016"
+    ],
+    "scope_note": "Apply the stated intervention separately to each selected project, then explore shared portfolio coordination."
+  },
+  "source_documents": [
+    "DOC-00241",
+    "DOC-00243",
+    "DOC-00244",
+    "DOC-00251",
+    "DOC-00254",
+    "DOC-00257",
+    "DOC-00259",
+    "DOC-00261",
+    "DOC-00263",
+    "DOC-00264",
+    "DOC-00271",
+    "DOC-00274",
+    "DOC-00277",
+    "DOC-00279",
+    "DOC-00281",
+    "DOC-00283",
+    "DOC-00284",
+    "DOC-00291",
+    "DOC-00294",
+    "DOC-00297",
+    "DOC-00299",
+    "DOC-00301",
+    "DOC-00303",
+    "DOC-00304",
+    "DOC-00311",
+    "DOC-00314",
+    "DOC-00317",
+    "DOC-00319"
+  ],
+  "actor_entity_ids": [
+    "PERSON-037",
+    "PERSON-038",
+    "PERSON-039",
+    "PERSON-040",
+    "PERSON-041",
+    "PERSON-042",
+    "PERSON-043",
+    "PERSON-044",
+    "PERSON-045",
+    "PERSON-046",
+    "PERSON-047",
+    "PERSON-048"
+  ],
+  "reference_graph": "reference_graph/",
+  "recommended_first_run": {
+    "actors": 12,
+    "rounds": 5,
+    "max_concurrent_llm_requests": 2,
+    "random_seed": 731905,
+    "notes": "These are app-side budgets, not a claim about upstream MiroFish parameter names."
+  },
+  "expected_outputs": [
+    "action log",
+    "stakeholder summaries",
+    "assumption list",
+    "source evidence references",
+    "run configuration"
+  ],
+  "evaluation_boundary": "Explore hypotheses. Outcomes are not validated forecasts or factual additions to the source corpus."
+}

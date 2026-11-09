@@ -1,0 +1,239 @@
+SYNTHETIC CANONICAL SIMULATION SEED: SCENARIO-02
+Not a native MiroFish API payload. Convert through a version-pinned adapter.
+Question: Which stakeholders request evidence, alternative sourcing, or schedule changes?
+COUNTERFACTUAL INTERVENTION: The primary supplier cannot deliver the next planned update; an alternate supplier is proposed.
+Scope: Apply separately to each selected project; the shared company coordinates the portfolio response.
+
+ACTORS
+PERSON-013: Ava Vale (013, synthetic)
+PERSON-014: Milo Vale (014, synthetic)
+PERSON-015: Nora Vale (015, synthetic)
+PERSON-016: Ezra Vale (016, synthetic)
+PERSON-017: Lina Vale (017, synthetic)
+PERSON-018: Owen Vale (018, synthetic)
+PERSON-019: Maya Vale (019, synthetic)
+PERSON-020: Theo Vale (020, synthetic)
+PERSON-021: Iris Vale (021, synthetic)
+PERSON-022: Noel Vale (022, synthetic)
+PERSON-023: Sana Vale (023, synthetic)
+PERSON-024: Eli Vale (024, synthetic)
+
+SOURCE EVIDENCE (facts from fictional source records; preserve IDs)
+
+DOCUMENT DOC-00081 | 2026-06-05T09:00:00Z | corpus/documents/DOC-00081.md
+[DOC-00081:S01] Lumen Initiative 005 delivers Lumen Supplier Onboarding 005.
+[DOC-00081:S02] Lumen Initiative 005 is owned by Ava Vale (013, synthetic).
+[DOC-00081:S03] Lumen Initiative 005 is sponsored by Milo Vale (014, synthetic).
+[DOC-00081:S04] Lumen Supplier Onboarding 005 serves Cedar Pilot Organization 005.
+[DOC-00081:S05] Lumen Initiative 005 belongs to Aster Vale Systems (fictional).
+[DOC-00081:S06] Delivery Team 05 operates Lumen 005 Interface.
+[DOC-00081:S07] Lumen 005 Interface is part of Lumen Supplier Onboarding 005.
+
+DOCUMENT DOC-00083 | 2026-06-09T09:00:00Z | corpus/documents/DOC-00083.md
+[DOC-00083:S01] Lumen Supplier Onboarding 005 is supplied by Fable Supply 05.
+[DOC-00083:S02] Fable Supply 05 supplies Lumen 005 Index.
+[DOC-00083:S03] Ava Vale (013, synthetic) manages the supplier agreement for Lumen Initiative 005.
+[DOC-00083:S04] Delivery Team 05 operates Lumen 005 Index.
+[DOC-00083:S05] Lumen 005 Index is part of Lumen Supplier Onboarding 005.
+
+DOCUMENT DOC-00084 | 2026-06-11T09:00:00Z | corpus/documents/DOC-00084.md
+[DOC-00084:S01] Ava Vale (013, synthetic) operates Lumen Initiative 005.
+[DOC-00084:S02] Lumen Supplier Onboarding 005 depends on Lumen 005 Job Queue for the capacity and queue plan scope.
+[DOC-00084:S03] Cedar Pilot Organization 005 participates in the capacity and queue plan for Lumen Initiative 005.
+[DOC-00084:S04] Delivery Team 05 operates Lumen 005 Job Queue.
+[DOC-00084:S05] Lumen 005 Job Queue is part of Lumen Supplier Onboarding 005.
+[DOC-00084:S06] Lumen Supplier Onboarding 005 has a planning capacity of 100 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00091 | 2026-06-25T09:00:00Z | corpus/documents/DOC-00091.md
+[DOC-00091:S01] Nora Vale (015, synthetic) observes pilot use of Lumen Initiative 005.
+[DOC-00091:S02] Lumen Supplier Onboarding 005 depends on Lumen 005 Interface for the pilot feedback report scope.
+[DOC-00091:S03] Cedar Pilot Organization 005 participates in the pilot feedback report for Lumen Initiative 005.
+[DOC-00091:S04] Delivery Team 05 operates Lumen 005 Interface.
+[DOC-00091:S05] Lumen 005 Interface is part of Lumen Supplier Onboarding 005.
+[DOC-00091:S06] Cedar Pilot Organization 005 enrolled 56 synthetic users in the pilot.
+
+DOCUMENT DOC-00094 | 2026-07-01T09:00:00Z | corpus/documents/DOC-00094.md
+[DOC-00094:S01] Lumen Initiative 005 is scheduled for Lumen 005 baseline launch.
+[DOC-00094:S02] Milo Vale (014, synthetic) authorizes the baseline schedule for Lumen Initiative 005.
+[DOC-00094:S03] Lumen 005 baseline launch is planned for 2026-08-04.
+[DOC-00094:S04] Delivery Team 05 operates Lumen 005 Job Queue.
+[DOC-00094:S05] Lumen 005 Job Queue is part of Lumen Supplier Onboarding 005.
+
+DOCUMENT DOC-00097 | 2026-07-07T09:00:00Z | corpus/documents/DOC-00097.md
+[DOC-00097:S01] Lumen Initiative 005 is scheduled for Lumen 005 revised launch.
+[DOC-00097:S02] Lumen 005 revised launch supersedes Lumen 005 baseline launch.
+[DOC-00097:S03] Lumen 005 revised launch is planned for 2026-08-18.
+[DOC-00097:S04] Milo Vale (014, synthetic) approves the revised schedule for Lumen Initiative 005.
+[DOC-00097:S05] Delivery Team 05 operates Lumen 005 Gateway.
+[DOC-00097:S06] Lumen 005 Gateway is part of Lumen Supplier Onboarding 005.
+
+DOCUMENT DOC-00099 | 2026-07-11T09:00:00Z | corpus/documents/DOC-00099.md
+[DOC-00099:S01] Ava Vale (013, synthetic) supports Lumen Initiative 005.
+[DOC-00099:S02] Lumen Supplier Onboarding 005 depends on Lumen 005 Job Queue for the support readiness note scope.
+[DOC-00099:S03] Cedar Pilot Organization 005 participates in the support readiness note for Lumen Initiative 005.
+[DOC-00099:S04] Delivery Team 05 operates Lumen 005 Job Queue.
+[DOC-00099:S05] Lumen 005 Job Queue is part of Lumen Supplier Onboarding 005.
+
+DOCUMENT DOC-00101 | 2026-06-06T09:00:00Z | corpus/documents/DOC-00101.md
+[DOC-00101:S01] Lumen Initiative 006 delivers Lumen Design Collaboration 006.
+[DOC-00101:S02] Lumen Initiative 006 is owned by Ezra Vale (016, synthetic).
+[DOC-00101:S03] Lumen Initiative 006 is sponsored by Lina Vale (017, synthetic).
+[DOC-00101:S04] Lumen Design Collaboration 006 serves Cedar Pilot Organization 006.
+[DOC-00101:S05] Lumen Initiative 006 belongs to Aster Vale Systems (fictional).
+[DOC-00101:S06] Delivery Team 06 operates Lumen 006 Interface.
+[DOC-00101:S07] Lumen 006 Interface is part of Lumen Design Collaboration 006.
+
+DOCUMENT DOC-00103 | 2026-06-10T09:00:00Z | corpus/documents/DOC-00103.md
+[DOC-00103:S01] Lumen Design Collaboration 006 is supplied by Fable Supply 06.
+[DOC-00103:S02] Fable Supply 06 supplies Lumen 006 Index.
+[DOC-00103:S03] Ezra Vale (016, synthetic) manages the supplier agreement for Lumen Initiative 006.
+[DOC-00103:S04] Delivery Team 06 operates Lumen 006 Index.
+[DOC-00103:S05] Lumen 006 Index is part of Lumen Design Collaboration 006.
+
+DOCUMENT DOC-00104 | 2026-06-12T09:00:00Z | corpus/documents/DOC-00104.md
+[DOC-00104:S01] Ezra Vale (016, synthetic) operates Lumen Initiative 006.
+[DOC-00104:S02] Lumen Design Collaboration 006 depends on Lumen 006 Job Queue for the capacity and queue plan scope.
+[DOC-00104:S03] Cedar Pilot Organization 006 participates in the capacity and queue plan for Lumen Initiative 006.
+[DOC-00104:S04] Delivery Team 06 operates Lumen 006 Job Queue.
+[DOC-00104:S05] Lumen 006 Job Queue is part of Lumen Design Collaboration 006.
+[DOC-00104:S06] Lumen Design Collaboration 006 has a planning capacity of 115 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00111 | 2026-06-26T09:00:00Z | corpus/documents/DOC-00111.md
+[DOC-00111:S01] Owen Vale (018, synthetic) observes pilot use of Lumen Initiative 006.
+[DOC-00111:S02] Lumen Design Collaboration 006 depends on Lumen 006 Interface for the pilot feedback report scope.
+[DOC-00111:S03] Cedar Pilot Organization 006 participates in the pilot feedback report for Lumen Initiative 006.
+[DOC-00111:S04] Delivery Team 06 operates Lumen 006 Interface.
+[DOC-00111:S05] Lumen 006 Interface is part of Lumen Design Collaboration 006.
+[DOC-00111:S06] Cedar Pilot Organization 006 enrolled 64 synthetic users in the pilot.
+
+DOCUMENT DOC-00114 | 2026-07-02T09:00:00Z | corpus/documents/DOC-00114.md
+[DOC-00114:S01] Lumen Initiative 006 is scheduled for Lumen 006 baseline launch.
+[DOC-00114:S02] Lina Vale (017, synthetic) authorizes the baseline schedule for Lumen Initiative 006.
+[DOC-00114:S03] Lumen 006 baseline launch is planned for 2026-08-05.
+[DOC-00114:S04] Delivery Team 06 operates Lumen 006 Job Queue.
+[DOC-00114:S05] Lumen 006 Job Queue is part of Lumen Design Collaboration 006.
+
+DOCUMENT DOC-00117 | 2026-07-08T09:00:00Z | corpus/documents/DOC-00117.md
+[DOC-00117:S01] Lumen Initiative 006 is scheduled for Lumen 006 revised launch.
+[DOC-00117:S02] Lumen 006 revised launch supersedes Lumen 006 baseline launch.
+[DOC-00117:S03] Lumen 006 revised launch is planned for 2026-08-26.
+[DOC-00117:S04] Lina Vale (017, synthetic) approves the revised schedule for Lumen Initiative 006.
+[DOC-00117:S05] Delivery Team 06 operates Lumen 006 Gateway.
+[DOC-00117:S06] Lumen 006 Gateway is part of Lumen Design Collaboration 006.
+
+DOCUMENT DOC-00119 | 2026-07-12T09:00:00Z | corpus/documents/DOC-00119.md
+[DOC-00119:S01] Ezra Vale (016, synthetic) supports Lumen Initiative 006.
+[DOC-00119:S02] Lumen Design Collaboration 006 depends on Lumen 006 Job Queue for the support readiness note scope.
+[DOC-00119:S03] Cedar Pilot Organization 006 participates in the support readiness note for Lumen Initiative 006.
+[DOC-00119:S04] Delivery Team 06 operates Lumen 006 Job Queue.
+[DOC-00119:S05] Lumen 006 Job Queue is part of Lumen Design Collaboration 006.
+
+DOCUMENT DOC-00121 | 2026-06-07T09:00:00Z | corpus/documents/DOC-00121.md
+[DOC-00121:S01] Lumen Initiative 007 delivers Lumen Event Operations 007.
+[DOC-00121:S02] Lumen Initiative 007 is owned by Maya Vale (019, synthetic).
+[DOC-00121:S03] Lumen Initiative 007 is sponsored by Theo Vale (020, synthetic).
+[DOC-00121:S04] Lumen Event Operations 007 serves Cedar Pilot Organization 007.
+[DOC-00121:S05] Lumen Initiative 007 belongs to Aster Vale Systems (fictional).
+[DOC-00121:S06] Delivery Team 07 operates Lumen 007 Interface.
+[DOC-00121:S07] Lumen 007 Interface is part of Lumen Event Operations 007.
+
+DOCUMENT DOC-00123 | 2026-06-11T09:00:00Z | corpus/documents/DOC-00123.md
+[DOC-00123:S01] Lumen Event Operations 007 is supplied by Fable Supply 07.
+[DOC-00123:S02] Fable Supply 07 supplies Lumen 007 Index.
+[DOC-00123:S03] Maya Vale (019, synthetic) manages the supplier agreement for Lumen Initiative 007.
+[DOC-00123:S04] Delivery Team 07 operates Lumen 007 Index.
+[DOC-00123:S05] Lumen 007 Index is part of Lumen Event Operations 007.
+
+DOCUMENT DOC-00124 | 2026-06-13T09:00:00Z | corpus/documents/DOC-00124.md
+[DOC-00124:S01] Maya Vale (019, synthetic) operates Lumen Initiative 007.
+[DOC-00124:S02] Lumen Event Operations 007 depends on Lumen 007 Job Queue for the capacity and queue plan scope.
+[DOC-00124:S03] Cedar Pilot Organization 007 participates in the capacity and queue plan for Lumen Initiative 007.
+[DOC-00124:S04] Delivery Team 07 operates Lumen 007 Job Queue.
+[DOC-00124:S05] Lumen 007 Job Queue is part of Lumen Event Operations 007.
+[DOC-00124:S06] Lumen Event Operations 007 has a planning capacity of 130 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00131 | 2026-06-27T09:00:00Z | corpus/documents/DOC-00131.md
+[DOC-00131:S01] Iris Vale (021, synthetic) observes pilot use of Lumen Initiative 007.
+[DOC-00131:S02] Lumen Event Operations 007 depends on Lumen 007 Interface for the pilot feedback report scope.
+[DOC-00131:S03] Cedar Pilot Organization 007 participates in the pilot feedback report for Lumen Initiative 007.
+[DOC-00131:S04] Delivery Team 07 operates Lumen 007 Interface.
+[DOC-00131:S05] Lumen 007 Interface is part of Lumen Event Operations 007.
+[DOC-00131:S06] Cedar Pilot Organization 007 enrolled 72 synthetic users in the pilot.
+
+DOCUMENT DOC-00134 | 2026-07-03T09:00:00Z | corpus/documents/DOC-00134.md
+[DOC-00134:S01] Lumen Initiative 007 is scheduled for Lumen 007 baseline launch.
+[DOC-00134:S02] Theo Vale (020, synthetic) authorizes the baseline schedule for Lumen Initiative 007.
+[DOC-00134:S03] Lumen 007 baseline launch is planned for 2026-08-06.
+[DOC-00134:S04] Delivery Team 07 operates Lumen 007 Job Queue.
+[DOC-00134:S05] Lumen 007 Job Queue is part of Lumen Event Operations 007.
+
+DOCUMENT DOC-00137 | 2026-07-09T09:00:00Z | corpus/documents/DOC-00137.md
+[DOC-00137:S01] Lumen Initiative 007 is scheduled for Lumen 007 revised launch.
+[DOC-00137:S02] Lumen 007 revised launch supersedes Lumen 007 baseline launch.
+[DOC-00137:S03] Lumen 007 revised launch is planned for 2026-08-13.
+[DOC-00137:S04] Theo Vale (020, synthetic) approves the revised schedule for Lumen Initiative 007.
+[DOC-00137:S05] Delivery Team 07 operates Lumen 007 Gateway.
+[DOC-00137:S06] Lumen 007 Gateway is part of Lumen Event Operations 007.
+
+DOCUMENT DOC-00139 | 2026-07-13T09:00:00Z | corpus/documents/DOC-00139.md
+[DOC-00139:S01] Maya Vale (019, synthetic) supports Lumen Initiative 007.
+[DOC-00139:S02] Lumen Event Operations 007 depends on Lumen 007 Job Queue for the support readiness note scope.
+[DOC-00139:S03] Cedar Pilot Organization 007 participates in the support readiness note for Lumen Initiative 007.
+[DOC-00139:S04] Delivery Team 07 operates Lumen 007 Job Queue.
+[DOC-00139:S05] Lumen 007 Job Queue is part of Lumen Event Operations 007.
+
+DOCUMENT DOC-00141 | 2026-06-08T09:00:00Z | corpus/documents/DOC-00141.md
+[DOC-00141:S01] Lumen Initiative 008 delivers Lumen Energy Reporting 008.
+[DOC-00141:S02] Lumen Initiative 008 is owned by Noel Vale (022, synthetic).
+[DOC-00141:S03] Lumen Initiative 008 is sponsored by Sana Vale (023, synthetic).
+[DOC-00141:S04] Lumen Energy Reporting 008 serves Cedar Pilot Organization 008.
+[DOC-00141:S05] Lumen Initiative 008 belongs to Aster Vale Systems (fictional).
+[DOC-00141:S06] Delivery Team 08 operates Lumen 008 Interface.
+[DOC-00141:S07] Lumen 008 Interface is part of Lumen Energy Reporting 008.
+
+DOCUMENT DOC-00143 | 2026-06-12T09:00:00Z | corpus/documents/DOC-00143.md
+[DOC-00143:S01] Lumen Energy Reporting 008 is supplied by Fable Supply 08.
+[DOC-00143:S02] Fable Supply 08 supplies Lumen 008 Index.
+[DOC-00143:S03] Noel Vale (022, synthetic) manages the supplier agreement for Lumen Initiative 008.
+[DOC-00143:S04] Delivery Team 08 operates Lumen 008 Index.
+[DOC-00143:S05] Lumen 008 Index is part of Lumen Energy Reporting 008.
+
+DOCUMENT DOC-00144 | 2026-06-14T09:00:00Z | corpus/documents/DOC-00144.md
+[DOC-00144:S01] Noel Vale (022, synthetic) operates Lumen Initiative 008.
+[DOC-00144:S02] Lumen Energy Reporting 008 depends on Lumen 008 Job Queue for the capacity and queue plan scope.
+[DOC-00144:S03] Cedar Pilot Organization 008 participates in the capacity and queue plan for Lumen Initiative 008.
+[DOC-00144:S04] Delivery Team 08 operates Lumen 008 Job Queue.
+[DOC-00144:S05] Lumen 008 Job Queue is part of Lumen Energy Reporting 008.
+[DOC-00144:S06] Lumen Energy Reporting 008 has a planning capacity of 145 requests per minute; this is a target, not a benchmark result.
+
+DOCUMENT DOC-00151 | 2026-06-28T09:00:00Z | corpus/documents/DOC-00151.md
+[DOC-00151:S01] Eli Vale (024, synthetic) observes pilot use of Lumen Initiative 008.
+[DOC-00151:S02] Lumen Energy Reporting 008 depends on Lumen 008 Interface for the pilot feedback report scope.
+[DOC-00151:S03] Cedar Pilot Organization 008 participates in the pilot feedback report for Lumen Initiative 008.
+[DOC-00151:S04] Delivery Team 08 operates Lumen 008 Interface.
+[DOC-00151:S05] Lumen 008 Interface is part of Lumen Energy Reporting 008.
+[DOC-00151:S06] Cedar Pilot Organization 008 enrolled 80 synthetic users in the pilot.
+
+DOCUMENT DOC-00154 | 2026-07-04T09:00:00Z | corpus/documents/DOC-00154.md
+[DOC-00154:S01] Lumen Initiative 008 is scheduled for Lumen 008 baseline launch.
+[DOC-00154:S02] Sana Vale (023, synthetic) authorizes the baseline schedule for Lumen Initiative 008.
+[DOC-00154:S03] Lumen 008 baseline launch is planned for 2026-08-07.
+[DOC-00154:S04] Delivery Team 08 operates Lumen 008 Job Queue.
+[DOC-00154:S05] Lumen 008 Job Queue is part of Lumen Energy Reporting 008.
+
+DOCUMENT DOC-00157 | 2026-07-10T09:00:00Z | corpus/documents/DOC-00157.md
+[DOC-00157:S01] Lumen Initiative 008 is scheduled for Lumen 008 revised launch.
+[DOC-00157:S02] Lumen 008 revised launch supersedes Lumen 008 baseline launch.
+[DOC-00157:S03] Lumen 008 revised launch is planned for 2026-08-21.
+[DOC-00157:S04] Sana Vale (023, synthetic) approves the revised schedule for Lumen Initiative 008.
+[DOC-00157:S05] Delivery Team 08 operates Lumen 008 Gateway.
+[DOC-00157:S06] Lumen 008 Gateway is part of Lumen Energy Reporting 008.
+
+DOCUMENT DOC-00159 | 2026-07-14T09:00:00Z | corpus/documents/DOC-00159.md
+[DOC-00159:S01] Noel Vale (022, synthetic) supports Lumen Initiative 008.
+[DOC-00159:S02] Lumen Energy Reporting 008 depends on Lumen 008 Job Queue for the support readiness note scope.
+[DOC-00159:S03] Cedar Pilot Organization 008 participates in the support readiness note for Lumen Initiative 008.
+[DOC-00159:S04] Delivery Team 08 operates Lumen 008 Job Queue.
+[DOC-00159:S05] Lumen 008 Job Queue is part of Lumen Energy Reporting 008.
+
+BOUNDARY: Agent actions, preferences, and outcomes generated during simulation are simulated. Keep them separate from source assertions.

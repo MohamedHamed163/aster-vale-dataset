@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "errors": [],
+  "counts": {
+    "documents": 2000,
+    "entities": 1315,
+    "relations": 10100,
+    "facts": 600,
+    "personas": 240,
+    "evaluation_questions": 200,
+    "scenarios": 4
+  },
+  "checks": [
+    "document hashes",
+    "entity and relation provenance",
+    "exact source quotes and anchors",
+    "temporal reference integrity",
+    "persona evidence",
+    "held-out evaluation references",
+    "ingestion profile exclusion",
+    "scenario references",
+    "file manifest hashes"
+  ],
+  "limitations": [
+    "No Ollama inference or MiroFish simulation was executed.",
+    "No semantic extraction quality benchmark was run."
+  ]
+}

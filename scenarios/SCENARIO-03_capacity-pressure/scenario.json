@@ -1,0 +1,81 @@
+{
+  "schema": "macos-ai-synthetic-corpus/1.0",
+  "id": "SCENARIO-03",
+  "name": "capacity-pressure",
+  "synthetic": true,
+  "canonical_format": true,
+  "engine_native_format": false,
+  "engine_integration_status": "Not executed or validated against MiroFish.",
+  "question": "How might the team balance queue controls, feature scope, and customer expectations?",
+  "intervention": {
+    "text": "The pilot request volume becomes twice the planning capacity while the budget stays fixed.",
+    "status": "COUNTERFACTUAL ASSUMPTION, not source fact",
+    "applies_to_project_ids": [
+      "PROJECT-009",
+      "PROJECT-010",
+      "PROJECT-011",
+      "PROJECT-012"
+    ],
+    "scope_note": "Apply the stated intervention separately to each selected project, then explore shared portfolio coordination."
+  },
+  "source_documents": [
+    "DOC-00161",
+    "DOC-00163",
+    "DOC-00164",
+    "DOC-00171",
+    "DOC-00174",
+    "DOC-00177",
+    "DOC-00179",
+    "DOC-00181",
+    "DOC-00183",
+    "DOC-00184",
+    "DOC-00191",
+    "DOC-00194",
+    "DOC-00197",
+    "DOC-00199",
+    "DOC-00201",
+    "DOC-00203",
+    "DOC-00204",
+    "DOC-00211",
+    "DOC-00214",
+    "DOC-00217",
+    "DOC-00219",
+    "DOC-00221",
+    "DOC-00223",
+    "DOC-00224",
+    "DOC-00231",
+    "DOC-00234",
+    "DOC-00237",
+    "DOC-00239"
+  ],
+  "actor_entity_ids": [
+    "PERSON-025",
+    "PERSON-026",
+    "PERSON-027",
+    "PERSON-028",
+    "PERSON-029",
+    "PERSON-030",
+    "PERSON-031",
+    "PERSON-032",
+    "PERSON-033",
+    "PERSON-034",
+    "PERSON-035",
+    "PERSON-036"
+  ],
+  "reference_graph": "reference_graph/",
+  "recommended_first_run": {
+    "actors": 12,
+    "rounds": 5,
+    "max_concurrent_llm_requests": 2,
+    "random_seed": 731904,
+    "notes": "These are app-side budgets, not a claim about upstream MiroFish parameter names."
+  },
+  "expected_outputs": [
+    "action log",
+    "stakeholder summaries",
+    "assumption list",
+    "source evidence references",
+    "run configuration"
+  ],
+  "evaluation_boundary": "Explore hypotheses. Outcomes are not validated forecasts or factual additions to the source corpus."
+}

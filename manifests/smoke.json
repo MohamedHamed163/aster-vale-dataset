@@ -1,0 +1,404 @@
+{
+  "schema": "macos-ai-synthetic-corpus/1.0",
+  "profile": "smoke",
+  "synthetic": true,
+  "ingestion_mode": "raw_documents",
+  "documents": [
+    {
+      "document_id": "DOC-00001",
+      "path": "corpus/documents/DOC-00001.md",
+      "project_id": "PROJECT-001",
+      "type": "charter",
+      "title": "Project charter: Lumen Initiative 001",
+      "published_at": "2026-06-01T09:00:00Z",
+      "synthetic": true,
+      "sha256": "e5104131951c1205fbda32f2f23efc089b7f77451bdbad15f82c111bf02c2bcb",
+      "word_count": 353,
+      "statement_ids": [
+        "DOC-00001:S01",
+        "DOC-00001:S02",
+        "DOC-00001:S03",
+        "DOC-00001:S04",
+        "DOC-00001:S05",
+        "DOC-00001:S06",
+        "DOC-00001:S07"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00002",
+      "path": "corpus/documents/DOC-00002.md",
+      "project_id": "PROJECT-001",
+      "type": "architecture",
+      "title": "Architecture decision: Lumen Initiative 001",
+      "published_at": "2026-06-03T09:00:00Z",
+      "synthetic": true,
+      "sha256": "ed92ab38e9ddb629846fa28a44fa8b6d4d58010c5c95f1cd521e9113831cdfad",
+      "word_count": 342,
+      "statement_ids": [
+        "DOC-00002:S01",
+        "DOC-00002:S02",
+        "DOC-00002:S03",
+        "DOC-00002:S04",
+        "DOC-00002:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00003",
+      "path": "corpus/documents/DOC-00003.md",
+      "project_id": "PROJECT-001",
+      "type": "supplier",
+      "title": "Supplier agreement note: Lumen Initiative 001",
+      "published_at": "2026-06-05T09:00:00Z",
+      "synthetic": true,
+      "sha256": "56dc51c49b2eb8d5b33f8797732bea7ef77da377e1ea9623628a53ce2599cc29",
+      "word_count": 341,
+      "statement_ids": [
+        "DOC-00003:S01",
+        "DOC-00003:S02",
+        "DOC-00003:S03",
+        "DOC-00003:S04",
+        "DOC-00003:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00004",
+      "path": "corpus/documents/DOC-00004.md",
+      "project_id": "PROJECT-001",
+      "type": "capacity",
+      "title": "Capacity and queue plan: Lumen Initiative 001",
+      "published_at": "2026-06-07T09:00:00Z",
+      "synthetic": true,
+      "sha256": "a0157e71d505ddc208bc3c7a24081c1a03fd7ac8ed4cffdc7e73d0fb12d04dad",
+      "word_count": 383,
+      "statement_ids": [
+        "DOC-00004:S01",
+        "DOC-00004:S02",
+        "DOC-00004:S03",
+        "DOC-00004:S04",
+        "DOC-00004:S05",
+        "DOC-00004:S06"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00005",
+      "path": "corpus/documents/DOC-00005.md",
+      "project_id": "PROJECT-001",
+      "type": "research",
+      "title": "User research brief: Lumen Initiative 001",
+      "published_at": "2026-06-09T09:00:00Z",
+      "synthetic": true,
+      "sha256": "0272d40dbfbf6805c00b5fbfcc716dbacf0084fc6faa98fa0498a04fa37125e0",
+      "word_count": 355,
+      "statement_ids": [
+        "DOC-00005:S01",
+        "DOC-00005:S02",
+        "DOC-00005:S03",
+        "DOC-00005:S04",
+        "DOC-00005:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00006",
+      "path": "corpus/documents/DOC-00006.md",
+      "project_id": "PROJECT-001",
+      "type": "requirements",
+      "title": "Requirements specification: Lumen Initiative 001",
+      "published_at": "2026-06-11T09:00:00Z",
+      "synthetic": true,
+      "sha256": "1670ba0dbb61cca9f3fbb0d5419d3e3ab5220eb8f342c719181287928f578856",
+      "word_count": 344,
+      "statement_ids": [
+        "DOC-00006:S01",
+        "DOC-00006:S02",
+        "DOC-00006:S03",
+        "DOC-00006:S04",
+        "DOC-00006:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00007",
+      "path": "corpus/documents/DOC-00007.md",
+      "project_id": "PROJECT-001",
+      "type": "implementation",
+      "title": "Implementation checkpoint: Lumen Initiative 001",
+      "published_at": "2026-06-13T09:00:00Z",
+      "synthetic": true,
+      "sha256": "731bc627e6c32715b4c85166db43e89276e8e4b733987cf6851dfdf47d2dff86",
+      "word_count": 350,
+      "statement_ids": [
+        "DOC-00007:S01",
+        "DOC-00007:S02",
+        "DOC-00007:S03",
+        "DOC-00007:S04",
+        "DOC-00007:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00008",
+      "path": "corpus/documents/DOC-00008.md",
+      "project_id": "PROJECT-001",
+      "type": "security",
+      "title": "Access review: Lumen Initiative 001",
+      "published_at": "2026-06-15T09:00:00Z",
+      "synthetic": true,
+      "sha256": "c967a1c1e820d79e13b4e8b5a6012d9a1ffe65c895a82344e8381e587c184646",
+      "word_count": 344,
+      "statement_ids": [
+        "DOC-00008:S01",
+        "DOC-00008:S02",
+        "DOC-00008:S03",
+        "DOC-00008:S04",
+        "DOC-00008:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00009",
+      "path": "corpus/documents/DOC-00009.md",
+      "project_id": "PROJECT-001",
+      "type": "accessibility",
+      "title": "Accessibility review: Lumen Initiative 001",
+      "published_at": "2026-06-17T09:00:00Z",
+      "synthetic": true,
+      "sha256": "264bf3448d666924232caa3bfdc8085c63526bab835c38b6739e0f865e55e661",
+      "word_count": 350,
+      "statement_ids": [
+        "DOC-00009:S01",
+        "DOC-00009:S02",
+        "DOC-00009:S03",
+        "DOC-00009:S04",
+        "DOC-00009:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00010",
+      "path": "corpus/documents/DOC-00010.md",
+      "project_id": "PROJECT-001",
+      "type": "acceptance",
+      "title": "Acceptance test plan: Lumen Initiative 001",
+      "published_at": "2026-06-19T09:00:00Z",
+      "synthetic": true,
+      "sha256": "aa7fe39297c8f5fd6a688178473d0b48ed681e4b44c7dfd07b5f5fddbf91d844",
+      "word_count": 349,
+      "statement_ids": [
+        "DOC-00010:S01",
+        "DOC-00010:S02",
+        "DOC-00010:S03",
+        "DOC-00010:S04",
+        "DOC-00010:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00011",
+      "path": "corpus/documents/DOC-00011.md",
+      "project_id": "PROJECT-001",
+      "type": "pilot",
+      "title": "Pilot feedback report: Lumen Initiative 001",
+      "published_at": "2026-06-21T09:00:00Z",
+      "synthetic": true,
+      "sha256": "ec0c7dd67d078e8249d15897824d364ce9a1be412f8eb6765f9b473c1f0bea05",
+      "word_count": 366,
+      "statement_ids": [
+        "DOC-00011:S01",
+        "DOC-00011:S02",
+        "DOC-00011:S03",
+        "DOC-00011:S04",
+        "DOC-00011:S05",
+        "DOC-00011:S06"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00012",
+      "path": "corpus/documents/DOC-00012.md",
+      "project_id": "PROJECT-001",
+      "type": "incident",
+      "title": "Incident investigation: Lumen Initiative 001",
+      "published_at": "2026-06-23T09:00:00Z",
+      "synthetic": true,
+      "sha256": "1f5e7eb9b9edc13df3f3a0c3b480e5ca0c55b7c244e336057aea7dce96b7f36c",
+      "word_count": 361,
+      "statement_ids": [
+        "DOC-00012:S01",
+        "DOC-00012:S02",
+        "DOC-00012:S03",
+        "DOC-00012:S04",
+        "DOC-00012:S05",
+        "DOC-00012:S06"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00013",
+      "path": "corpus/documents/DOC-00013.md",
+      "project_id": "PROJECT-001",
+      "type": "change",
+      "title": "Change proposal: Lumen Initiative 001",
+      "published_at": "2026-06-25T09:00:00Z",
+      "synthetic": true,
+      "sha256": "1f2e1603449bdbf9f47f9d656701999a182c7f5ef1409852779c5de82b8f14d1",
+      "word_count": 342,
+      "statement_ids": [
+        "DOC-00013:S01",
+        "DOC-00013:S02",
+        "DOC-00013:S03",
+        "DOC-00013:S04",
+        "DOC-00013:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00014",
+      "path": "corpus/documents/DOC-00014.md",
+      "project_id": "PROJECT-001",
+      "type": "baseline",
+      "title": "Baseline release schedule: Lumen Initiative 001",
+      "published_at": "2026-06-27T09:00:00Z",
+      "synthetic": true,
+      "sha256": "67a378c2f192238686f47d7ba1aea345576bc78b89bafd7d2d958bce8af9cc19",
+      "word_count": 344,
+      "statement_ids": [
+        "DOC-00014:S01",
+        "DOC-00014:S02",
+        "DOC-00014:S03",
+        "DOC-00014:S04",
+        "DOC-00014:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00015",
+      "path": "corpus/documents/DOC-00015.md",
+      "project_id": "PROJECT-001",
+      "type": "risk",
+      "title": "Risk review: Lumen Initiative 001",
+      "published_at": "2026-06-29T09:00:00Z",
+      "synthetic": true,
+      "sha256": "21101fa0260b4f8df072be7e5aab7f857a1b4156d9174edad535899a71bd1c23",
+      "word_count": 347,
+      "statement_ids": [
+        "DOC-00015:S01",
+        "DOC-00015:S02",
+        "DOC-00015:S03",
+        "DOC-00015:S04",
+        "DOC-00015:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00016",
+      "path": "corpus/documents/DOC-00016.md",
+      "project_id": "PROJECT-001",
+      "type": "budget",
+      "title": "Budget checkpoint: Lumen Initiative 001",
+      "published_at": "2026-07-01T09:00:00Z",
+      "synthetic": true,
+      "sha256": "1e9f8e386c7b8351493caa53451a50f03e1ec5b44b2991db51fc455455b2136b",
+      "word_count": 360,
+      "statement_ids": [
+        "DOC-00016:S01",
+        "DOC-00016:S02",
+        "DOC-00016:S03",
+        "DOC-00016:S04",
+        "DOC-00016:S05",
+        "DOC-00016:S06"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00017",
+      "path": "corpus/documents/DOC-00017.md",
+      "project_id": "PROJECT-001",
+      "type": "release",
+      "title": "Revised release decision: Lumen Initiative 001",
+      "published_at": "2026-07-03T09:00:00Z",
+      "synthetic": true,
+      "sha256": "8fea375a7ab46fc350b467f3f372535990f4a3f8f1eb1de419ee9d27c3303828",
+      "word_count": 346,
+      "statement_ids": [
+        "DOC-00017:S01",
+        "DOC-00017:S02",
+        "DOC-00017:S03",
+        "DOC-00017:S04",
+        "DOC-00017:S05",
+        "DOC-00017:S06"
+      ],
+      "supersedes": [
+        "DOC-00014"
+      ]
+    },
+    {
+      "document_id": "DOC-00018",
+      "path": "corpus/documents/DOC-00018.md",
+      "project_id": "PROJECT-001",
+      "type": "communications",
+      "title": "Communication plan: Lumen Initiative 001",
+      "published_at": "2026-07-05T09:00:00Z",
+      "synthetic": true,
+      "sha256": "81fbb40464b85525c12f3638be9dd7bcbc36588908ea275a70d205cbbfa95e43",
+      "word_count": 342,
+      "statement_ids": [
+        "DOC-00018:S01",
+        "DOC-00018:S02",
+        "DOC-00018:S03",
+        "DOC-00018:S04",
+        "DOC-00018:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00019",
+      "path": "corpus/documents/DOC-00019.md",
+      "project_id": "PROJECT-001",
+      "type": "support",
+      "title": "Support readiness note: Lumen Initiative 001",
+      "published_at": "2026-07-07T09:00:00Z",
+      "synthetic": true,
+      "sha256": "4f641eb9c3f448e2b53946487ced4d1e473f43dd0a4fe3b6510007f47362120e",
+      "word_count": 352,
+      "statement_ids": [
+        "DOC-00019:S01",
+        "DOC-00019:S02",
+        "DOC-00019:S03",
+        "DOC-00019:S04",
+        "DOC-00019:S05"
+      ],
+      "supersedes": []
+    },
+    {
+      "document_id": "DOC-00020",
+      "path": "corpus/documents/DOC-00020.md",
+      "project_id": "PROJECT-001",
+      "type": "handover",
+      "title": "Operational handover: Lumen Initiative 001",
+      "published_at": "2026-07-09T09:00:00Z",
+      "synthetic": true,
+      "sha256": "740f417574889283252b465017e3007f4f1abce345283d3043e9e6e777ae0950",
+      "word_count": 347,
+      "statement_ids": [
+        "DOC-00020:S01",
+        "DOC-00020:S02",
+        "DOC-00020:S03",
+        "DOC-00020:S04",
+        "DOC-00020:S05"
+      ],
+      "supersedes": []
+    }
+  ],
+  "exclude_directories": [
+    "evaluation_private",
+    "reference_graph",
+    "personas",
+    "scenarios"
+  ],
+  "notes": "Paths reference the same corpus files. Do not duplicate documents between profiles. Root-relative paths resolve from dataset/."
+}
